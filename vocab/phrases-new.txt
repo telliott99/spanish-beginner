@@ -9,17 +9,21 @@ al revèz	backward
 amanecer	sunrise
 arroz silvestre	wild rice
 
+el bolso de mano	carry-on
 buen provecho!	enjoy your meal
-cepillarse los dientes	to brush your teeth
-cortadoras de césped	lawnmower
-de cuerpo entero	full-length
+buena idea	good idea
 
 cable de alimentación	power cord
+caja de herramientas	toolbox
 camisa manga larga	long sleeve shirt
 carne molida	ground beef
+cepillarse los dientes	to brush your teeth
 con permiso	excuse me [in the way]
+cortadoras de césped	lawnmower
 cuàndo puede empezar	when can you start
 cuando puedas	when you can
+cuchara para servir	serving spoon
+de cuerpo entero	full-length
 
 dar vuelta a la izqierda	turn left
 ¿de dònde es?	where are you from
@@ -32,7 +36,10 @@ en punto	o'clock
 empieza de pensar	starts thinking
 estamos limpiando el baño	we're cleaning the bathroom
 
+favor de no poner papel en la taza	please don't put paper in the toilet bowl
 fecha de nacimiento	date of birth
+
+las gafas del sol	sunglasses
 
 había una vez	once upon a time
 haga la conexiòn	make the connection
@@ -40,6 +47,7 @@ haga la conexiòn	make the connection
 igualmente	the same here
 
 el lavabo está atascado	the sink is clogged
+la llanta de repuesto	spare tire
 llevar un traje	to wear a suit
 
 mañana por la noche	tomorrow night
@@ -70,6 +78,8 @@ la salida del sol	sunrise
 se puede	may I come in?
 se emociona	gets excited
 seguro	sure, of course
+la señal decambios	turn signal
+el serrucho de carpintero	carpenter's saw
 sigue trabajando	keep working
 sin embargo	nevertheless
 soler comer	to be used to eating

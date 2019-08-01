@@ -16,7 +16,7 @@ except:
 
 if flag and flag == 'new':
     print 'new words only'
-    fL = ['words-new.txt']
+    fL = [fn for fn in fL if 'new' in fn]
 
 #print '\n'.join(fL)
 
@@ -32,10 +32,13 @@ for fn in fL:
                     D[sp].append(en)
                 else:
                     D[sp] = [en]
-                if en in rD:
-                    rD[en].append(sp)
-                else:
-                    rD[en] = [sp]
+                sL = en.strip().split(',')
+                sL = [e.strip() for e in sL]
+                for e in sL:
+                    if e in rD:
+                        rD[e].append(sp)
+                    else:
+                        rD[e] = [sp]
             except ValueError:
                 pass
 

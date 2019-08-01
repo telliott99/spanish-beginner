@@ -11,7 +11,7 @@ adelante	forward
 además	also
 afuera	[on the] outside
 agradece	thanks
-el agua	water [fem. but uses el b/c la'agua weird]
+el agua [not la]	water
 aguacate	avocado [Mex.]
 ahora	now
 ahorita	right now
@@ -34,9 +34,11 @@ apprendiz	apprentice
 apprendizaje	apprenticeship
 aquel	that
 la araña	spider
+el àrbitro	referee
 el arbol	tree
 la arena	sand
 arriba	upstairs
+arrojar	to throw
 arroz	rice
 atasco	jam
 atrás	behind
@@ -48,6 +50,7 @@ azul	blue
 azúcar	sugar
 
 barato	cheap
+barco	boat
 la basura	trash
 la baya	berry
 el bebè	the baby
@@ -164,6 +167,7 @@ el escritorio	desk
 la escudilla	bowl
 la escuela	school
 la espalda	back
+espejo	mirror
 espesa	thick
 esposa	wife
 esquina	corner
@@ -190,6 +194,7 @@ el granjero	farmer
 grito	cry, scream
 
 hacia	toward(s)
+las hadas	fairies
 hambre	hunger
 helado	ice cream
 hermoso	beautiful
@@ -199,14 +204,16 @@ los hombros	shoulders
 la hora	hour, time
 el horno	oven
 huachinango	snapper
-buena idea	good idea
+el huevo	egg
 
 el idioma	language
 la iglesia	church
+imaginarse	to imagine
 invierno	winter
 izquierdo	left
 el jardín	garden
 
+el jabón	soap
 juevos	eggs
 el jugo	juice
 
@@ -230,11 +237,13 @@ el lugar	place, spot
 la luna	moon
 
 la madera	wood
+el maní	peanut
 las manos	hands [b/c Latin manus is fem.]
 mantequilla	butter
 la manzana	apple
 la mapa	map
 la mar	sea
+el marido	husband
 mariscos	seafood
 màs, mas	more, but
 el mercado	market
@@ -289,6 +298,8 @@ el pecho	chest
 pegado	glued
 peligroso	dangerous
 película	movie
+el pelo	hair
+peludos	hairy
 pequeño	little
 perezosa	lazy
 perro/a	dog
@@ -297,6 +308,7 @@ el pescado	fish
 pez	fish
 la pie	foot
 la pierna	leg
+la piña	pineapple
 el piso	floor
 la plata	silver
 el plato	plate
@@ -311,7 +323,9 @@ el problema	problem
 producir	produce, cause
 el programa	program (TV) (note: el)
 pronto	soon
+pròximo	next
 pueblo	village, people
+el puerco	pork
 la puerta	door
 pues	then, well then
 pusar	to press, to push

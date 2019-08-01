@@ -22,7 +22,7 @@ for word in L:
         
     elif response.strip() in trans:
     # '' is *in* anything!
-        print 'Si!'
+        print 'Si!', trans
     else:
         print trans
         
