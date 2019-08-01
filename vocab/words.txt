@@ -51,9 +51,11 @@ azúcar	sugar
 
 barato	cheap
 barco	boat
+bastante	enough
 la basura	trash
 la baya	berry
 el bebè	the baby
+el beso	kiss
 la bicicleta	bicycle
 blanco	white
 la blusa	blouse
@@ -68,6 +70,7 @@ el brazo	arm
 el caballo	horse
 cabra	goat
 cada	each
+cadena	chain
 café	coffee, brown [color]
 el cajón	drawer
 los calcetines	socks
@@ -86,7 +89,7 @@ el carne	meat
 carne	meat
 caro	expensive
 el carro	car (Mex.)
-las cartas	letters
+la carta	letter, [playing] card
 la casa	house
 casi	almost
 cebolla	onion
@@ -147,21 +150,28 @@ desayuno	breakfast [Mex. just coffee]
 desde	since
 despuès	after
 después	after
-detrás	behind
+detrás de	behind, in back of
 devolver	to return
 el dìa	the day [m. b/c Greek]
+difìcil	hard
+el dinero	money
+la direcciòn	direction, address
 dorado
 la ducha	shower
 dulce	sweet
 durmiendo	sleeping
 
+la edad	age
+el edificio	building
 él, el	he, the
+ejemplo	example
+ejèrcito	army
 empanada	turnover
 encargado	manager
 enfermero	nurse
 enfermo	sick
 enojado	angry
-entonces	then
+entonces	then, at that time
 equipaje	baggage
 el escritorio	desk
 la escudilla	bowl
@@ -172,13 +182,20 @@ espesa	thick
 esposa	wife
 esquina	corner
 este	east
+estrella	star
 la estufa	stove
 excelsas	excellent
+èxito	success
+el extranjero	foreigner, stranger, foreign
+extraño	strange
 
+fàcil	easy
 la falda	skirt
+la falta	mistake, lack
 la fecha	date
 feliz	happy
 feo	ugly
+el ferrocarril	railroad
 la fresa	strawberry
 frìo	cold
 fuego	fire
@@ -192,14 +209,15 @@ la gente	people
 largo	long
 el granjero	farmer
 grito	cry, scream
+guapo	handsome
+la guerra	war
 
+habitaciòn	room
 hacia	toward(s)
 las hadas	fairies
 hambre	hunger
 helado	ice cream
 hermoso	beautiful
-hermoso	beautiful
-el hogar	home
 los hombros	shoulders
 la hora	hour, time
 el horno	oven
@@ -216,22 +234,35 @@ el jardín	garden
 el jabón	soap
 juevos	eggs
 el jugo	juice
+juntos	together
 
 los labios	lips
 el lado	side
 la lámpara	lamp
-el lapiz	pencil
+el làpiz	pencil
 el lapicero	pen
+largo	long
 el lavabo	sink
 la lavadora	washing machine
 el lavamanos	sink
 la leche	milk
 lejos	far
 leña	firewood
-ligero/a	light [weight]
+la lengua	language, tongue
+lentamente
+los lentes	eyeglasses
+la ley	law
+el libro	book
+libre	free
+ligero	light [weight]
 limpio	clean
+lindo	pretty
 listo	ready
+loco	crazy
+luego	then, after
+el lugar	place
 la llave	key, tap, faucet, valve, wrench
+lleno	full
 lluvia	rain
 el lugar	place, spot
 la luna	moon
@@ -246,49 +277,64 @@ la mar	sea
 el marido	husband
 mariscos	seafood
 màs, mas	more, but
+el mèdico	doctor
 el mercado	market
+el mes	month
 la mesa	table
 mì, mi	me, my
 la microonda	microwave
 miedo	fear
 miedoso	fearful
 el miel	honey
-mientras	while
+mientras que	while
+mitad	half
 la mochila	backpack
-el monte	mountain
+la montaña	mountain
 morado	purple
 la mosca	fly
 los muebles	furniture
 la mujer	woman
-mundo	world
-más	more
+el mundo	world
+el museo	museum
+la mùsica	music
 
+nada	nothing
 nadie	nobody
 la naranja	orange
 el nariz	nose
+el negociante	businessman
+los negocios	business
 negro	black
 ni	neither, not even
 la nieve	snow
 ninguno	no, none, nobody
-norte	north
+la noche	night
+el nombre	name
+el norte	north
+novio	boyfriend, fiancè
 nubiado	cloudy
 nunca	never
 
-obra	work, book
+la obra	work, book
 oeste	west
 el ojo	eye
 el olor	odor
 olla	pot, saucepan
 onda	wave
+la orden	sequence
+el ordenador	computer
 la oreja	ear
 el oro	gold
 oscuro	dark
 el oso	bear
 
 las palabras	words
+pàgina	page
 el papel	paper
 el pared	wall
 la parrilla	grill
+el pasajero	passenger
+el paseo	walk, ride
 pasillo	aisle, but also hall
 el pastor	shepherd
 patada	kick
@@ -296,26 +342,39 @@ pato/a	duck
 el país	country, nation
 el pecho	chest
 pegado	glued
+el peligro	danger
 peligroso	dangerous
 película	movie
 el pelo	hair
 peludos	hairy
+la pelota	ball
+la pena	ache, grief, pain, trouble
+la pensiòn	bordinghouse
 pequeño	little
+peor	worse
 perezosa	lazy
-perro/a	dog
+el periòdico	newspaper
+pero	but
+perro dog
 pesado	heavy
 el pescado	fish
 pez	fish
+picante	spicy
+pico	a little
 la pie	foot
+la piedra	stone, rock
 la pierna	leg
 la piña	pineapple
-el piso	floor
+la pintura	painting
+la piscina	swimming pool
+el piso	floor, apartment
+placer	pleasure
 la plata	silver
 el plato	plate
 la playa	beach
 el pollo	chicken
 pozo	well
-el précio	price
+el précio	price, cost, value
 pregunta	question
 el primavera	spring
 primo	cousin
@@ -324,29 +383,43 @@ producir	produce, cause
 el programa	program (TV) (note: el)
 pronto	soon
 pròximo	next
-pueblo	village, people
+el pueblo	village, people
+el puente	bridge
 el puerco	pork
 la puerta	door
 pues	then, well then
+el puesto	post, stand, job, position
 pusar	to press, to push
 
 queso	cheese
+la queja	complaint
 
 el ranchero	rancher
+ràpido	rapid, quick
+rato	while
+la razòn	reason
 el refrigerador	refrigerator
 el reloj	watch, clock
+la respuesta	reply
+rey	king
+rico	rich, delicious
+el rìo	river
 risa	laughter
 rojo	red
 la ropa	clothes
 rosado	pink
 el rostro	face, visage
+roto	broken
 
 la sala	room
 la salida	exit
 salto	jump
+la salud	health
+la sangre	blood
 sè, se	I know, one's self
 seco	dry
 sed	thirst
+la seda	silk
 seguro	safe, sure, of course, [life] insurance
 semafora	traffic light
 semana	week
@@ -354,59 +427,83 @@ si, sì	if, yes
 siempre	always
 la sierra	saw
 el silenciador	muffler
+el siglo	century
 la silla	chair
 el sillón	armchair
+sin	without
 sin embargo	nevertheless
 siquiera	even, at least
+el sitio	place, spot
 sobre	over, about
+el sobre	the envelope
 el sol	sun
+solamente	alone
 soleado	sunny
+el soltero	bachelor
+la sombra	shade, shadow
 el sonido	sound
 sonrir	to smile
 las sonrisas	smiles
 la sopa	soup
-el suelo	ground
+el suelo	soil
 sur	south
-sueño	dream
+sueño	dream, sleep
 
 también	too, also
 tanto	so much, so many
 la tarde	afternoon
 tarde	late
 la tarta	pie
+el telèfono	telephone
 la televisiòn	television [yes, la]
 temprano	early
 el tenedor	fork
 la ternera	veal
 el tibùron	shark
 el tiempo	time, weather
+la tienda	store
 la tierra	land, earth
-la tijera	scissors
+las tijeras	scissors
 la tina	tub, bathtub
+la tinta	ink
 tirado	lying [on the ground]
 tirar	to pull
 la toalla	towel
-todavia	still, yet
+todavìa	still, yet
 el tomate	tomato
 el tomatillo	tomatillo
 toronja	grapefruit
+el toro	bull
+la torre	tower
+la tos	cough
+tranquilo	tranquil, calm, quiet
+tren	train
 triste	sad
 la trucha	trout
 tù, tu	you, your
 
+ùltimo	last
+ùtil	useful
+
 la vaca	cow
+la valle	valley
 el vaso	glass
 ¡vè!, ve	go!, sees
+la velocidad	speed
 la ventana	window
 ventoso	windy
 verano	summer
 verde	green
 verduras	vegetables
 el viaje	trip, voyage
-vida	life
+el viajero	passenger
+la vida	life
 el viejo	old [man]
+la voz
+viento	wind, scent
 el vuelo	flight
-el vuelto	the change
+de vuelta	back
+la vuelta	change, turn stroll
 
 ya	already, still
 

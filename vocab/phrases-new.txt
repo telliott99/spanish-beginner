@@ -58,8 +58,11 @@ animales salvajes	wild animals
 nave espacial	spacecraft
 nos trae la cuenta, por favor	bring us the check, please
 
+¡ojalà!	I wish (that)!
+
 pedazos de papel	pieces of paper
 perdoneme	pardon me (ex: for a sneeze)
+por ejemplo	for example
 por ahi	over there
 por fin	at last, finally
 al principio	at first
@@ -72,6 +75,7 @@ puesta de sol	sunset
 quizás	perhaps
 
 reírse a carcajadas	laugh out load
+de repente	suddenly
 risa	laughter
 
 la salida del sol	sunrise
@@ -81,12 +85,14 @@ seguro	sure, of course
 la señal decambios	turn signal
 el serrucho de carpintero	carpenter's saw
 sigue trabajando	keep working
+sin duda	without a doubt
 sin embargo	nevertheless
 soler comer	to be used to eating
 el suelo desnudo	the bare ground
 
 tal vez	perhaps, sometimes
 tarjeta de crédito	credit card
+tener razòn	to be right
 tienda de comestibles	grocery store
 tomar un trago	take a drink [alcoholic]
 
@@ -94,3 +100,4 @@ una cucharada	spoon, spoonful
 un dolar	one dollar (not uno!)
 
 ver es creer	seeing is believing
+de veras	really

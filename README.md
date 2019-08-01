@@ -1,10 +1,10 @@
 #### Vocabulary for Spanish
 
-This project contains several lists of vocabulary --- words and phrases --- for Spanish (Español), as well as other materials like grammar and conjugation.
+This project contains several lists of vocabulary --- words and phrases --- for Spanish (Español), as well as other materials like grammar and conjugation.  They are *beginner's* lists of around 1000 words.
 
-The local directory also has some scans of stories that are marked up with new vocabulary, but these are not in the repo.
+In my local copy I have some scans of stories that are then marked up with new vocabulary, but these are not in the repo for copyright reasons.
 
-One item of interest is a python script to drill vocabulary.  For example
+The main item of interest is a python script to drill vocabulary.  For example
 
 ```
 > cd ~/Github/Español
@@ -27,4 +27,21 @@ Si!
 ..
 ```
 
-There are only two flags so far.  One is ``new``, which drills only on new words, and the other is ``rev``, which drills English-to-Spanish.
+#### Arguments
+
+- ``new`` drills only on new words
+- ``rev`` drills English-to-Spanish.
+
+In addition, there are some new (experimental) flags.  One can provide a number and only that many words are shown, repeatedly.
+
+Also, one can list the first letters of the words to drill on.  For example 'abc' chooses only words starting with those letters.
+
+####
+
+Shell script.  I have ``bin`` directory on my ``$PATH`` and in there I put ``drill``, which is an executable.  It has
+
+```
+python ~/Github/Español/scripts/drill.py $1 $2 $3
+```
+
+This is a hack.  We don't actually count the environmental vars passed to Python.  But it seems to work well.s

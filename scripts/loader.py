@@ -8,13 +8,9 @@ d = '/Users/telliott_admin/Github/Español/vocab'
 fL = os.listdir(d)
 D = {}
 rD = {}
+args = sys.argv[1:]  # strip script name
 
-try:
-    flag = sys.argv[1]
-except:
-    flag = None
-
-if flag and flag == 'new':
+if 'new' in args:
     print 'new words only'
     fL = [fn for fn in fL if 'new' in fn]
 
@@ -42,6 +38,6 @@ for fn in fL:
             except ValueError:
                 pass
 
-if flag and flag == 'rev':
+if 'rev' in args:
     print 'English to Spanish'
     D = rD
