@@ -1,0 +1,29 @@
+Masculine
+nouns ending in 'o','s','ma','r','l','n','e': 
+    libro, niño, sueño, diccionario
+    país, autobús, mes, compas
+    puma, sistema, tema
+    motor, par, cráter
+    pastel, papel, redil, mantel
+    jabón, jardín, capitán, atún
+    puente, diente, peine
+
+About 50% of nouns ending in 'e' are masculine: 
+    puente, diente, peine
+
+Feminine
+nouns ending in 'a','ción','sión','d','z': 
+    niña, mesa, ventana
+    canción, nación, situación
+    profesión, posesión,
+    amistad, ciudad, voluntad
+    paz, cruz, luz
+
+About 50% of nouns ending in 'e' are feminine:
+
+Nouns ending in -ista can be masculine or feminine: 
+    turista, dentista, periodista.
+Nouns ending in -ente can be masculine or feminine: 
+    gerente, cliente, dirigente.
+Nouns ending in -ante can be masculine or feminine: 
+    visitante, agente, dibujante.
