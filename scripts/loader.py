@@ -4,7 +4,7 @@ import os, sys
 from os import walk
 from string import lowercase
 
-d = '/Users/telliott_admin/Desktop/Español/vocab'
+d = '/Users/telliott_admin/Github/Español/vocab'
 fL = os.listdir(d)
 D = {}
 rD = {}
