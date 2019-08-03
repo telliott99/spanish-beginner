@@ -1,60 +1,95 @@
 abajo	downstairs
 abierto	open
+abogado	lawyer
 el abrigo	coat
 el abuelo	grandfather
 el aceite	olive oil
 acentro	inward
 la acera	sidewalk
 el acero	steel
-acà
+acá
 adelante	forward
+adelante	straight ahead
 además	also
 afuera	[on the] outside
 agradece	thanks
-el agua [not la]	water
+el agua	water [yes, el]
 aguacate	avocado [Mex.]
+la águila	eagle
+la aguja	needle
 ahora	now
 ahorita	right now
 ajo	garlic
-las albòndigas	meatballs
+al amanecer	dawn
+el alambre	wire
+las albóndigas	meatballs
+alcance	reach, scope
+la alcoba	bedroom
 alegría	joy
+la alfombra	rug, carpet
 algo	something
+el algodón	cotton
 alguien	someone
 allí,	there, over there
 el almacén	grocery store
+la almohada	pillow
 almuerzo	lunch
+alrededor	around
 alto	high
 amarillo	yellow
+amistad	friendship
 amo	master
 anaranjado	orange
 ancho	wide
+anocheser	dusk
 el año	year
 apelido	last name
+apenas	just
+apoyo	support, backing
 apprendiz	apprentice
 apprendizaje	apprenticeship
+apretado	tight
 aquel	that
 la araña	spider
-el àrbitro	referee
+el árbitro	referee
 el arbol	tree
 la arena	sand
+arma	weapon
+el armario	closet
 arriba	upstairs
 arrojar	to throw
 arroz	rice
+aseado	neat
+asombroso	amazing
+el asunto	matter, issue, affair
+asustado	frightened
 atasco	jam
-atrás	behind
+atrasado	slow
+atrás	back, behind, backward
 atrás y adelante	back and forth
+aún	still
+aunque	even though
+ausencia	absence
 el auto	car (S.A.)
 el autobus	bus
+avión	airplane
 ayer	yesterday
 azul	blue
 azúcar	sugar
+el año	year
 
+el bacalao	cod
+la bandera	flag
+la bañera	bathtub
 barato	cheap
+la barba	chin, beard
 barco	boat
+barrio	neighborhood, district
 bastante	enough
 la basura	trash
+el basurero	trash can
 la baya	berry
-el bebè	the baby
+el bebé	the baby
 el beso	kiss
 la bicicleta	bicycle
 blanco	white
@@ -64,6 +99,7 @@ la bodega	grocery store
 el boleto	ticket
 la bolsa	purse
 borracho	drunk
+el bosillo	pocket
 los bosque	woods
 el brazo	arm
 
@@ -71,108 +107,190 @@ el caballo	horse
 cabra	goat
 cada	each
 cadena	chain
+las caderas	hips
 café	coffee, brown [color]
+la caja	box, bank, safe
+la cajuela	[car] trunk
 el cajón	drawer
 los calcetines	socks
+calda	fall, drop, falling
+el caldero	pot
 caliente	warm
 la calle	street
 calor	hot
 la cama	bed
+la camarera	waitress
 el camino	highway
 la camisa	shirt
 la camiseta	t-shirt
 el camión	truck
+la campana	bell
 el campo	field, meadow, countryside
 la canasta	basket
+el canción	song
+el cangrejo	crab
+cansado	tired
+capa	layer, coat
+capítulo	chapter
 la cara	face
+el carìño	love, affection
 el carne	meat
 carne	meat
 caro	expensive
+la carrera	race
+la carretera	highway, road
 el carro	car (Mex.)
 la carta	letter, [playing] card
 la casa	house
+casado	married
 casi	almost
+catarro	cold
 cebolla	onion
+las cejas	eyebrows
 cena	dinner
+el cepillo	brush
 cerca de	near
 cerdo	pig, pork
+cerebro	brain
+la cereza	cherry
 cerrado	closed
+los cerros	the hills
 la cerveza	beer
-el césped	lawn
+el chiste	joke, jest
+chocar	to collide, crash, shock
+ciego	blind
 el cielo	sky
+la cierre	zipper
 cierto	certain
+cifra	figure, number, amount
+cinta	tape, ribbon, film
 la cintura	waist
+el cinturòn	belt, seatbelt
+la ciruela	plum
+cita	appointment, date, quotation
 la ciudad	city
 claro	clear
 la clave	key, code, cipher
 el clima	climate [m. b/c Greek]
+la cobija	blanket
 el cobre	copper
 el coche	car (Esp.)
 la cochera	garage
 el cocinero	cook
+el codo	elbow
+la cola	line, queue, tail
+el colchón	mattress
 el colegio	school
+el colgador	hanger
+el colibri	hummingbird
+el colino	hill
 el comal	griddle
 la comida	food
+compra	purchase
 el conejo	rabbit
 el congelador	freezer
 conseguir	get, acquire, obtain
-la copa	cup
+la copa	[wine] glass, drink
 el corazón	heart
+la corbata	tie
 cordero	lamb
-el correo	mail
+el correo	mail, post office
 los correos	post office
+corto	short
 la cosa	thing
+la costa	coast
 la criada	maid
 cruce	crossing, intersection
+crudo	raw
 cruz	cross
-cual	which
+el cuaderno	notebook
+la cuadra	[city] block
+el cuadro	painting, picture
+cual	which, which one?
 cuando	when
-el cuarto	room
+cuanto	how much
 el cuarto	room
 el cuarto de baño	bathroom
+la cucaracha	cockroach
 la cuchara	spoon
 el cuchillo knife
-el cuello	neck
-cuenta	check
+el cuello	neck, collar
+el cuenco	bowl
+la cuenta	check
 el cuento	story
+el cuerno	horn
+el cuero	leather
 el cuerpo	body
+el cuervo	crow
+la culebra	snake
+culpa	blame, fault
+el cura	priest
 cuál	which
+cárcel	jail, prison
+el césped	lawn
 
+debajo de	below, underneath
 el dedo	finger
 el dedo de pie	toe
 delante de	in front of
-dè, de	give [subj. of dar], of
-demasiado	too
+delgado	thin, skinny
+demasiado	too much
+demás	[the] rest
 dentro de	inside
 deportes	sports
 derecho	right
+desarrollo	development
 desayuno	breakfast [Mex. just coffee]
 desde	since
-despuès	after
+el despertador	alarm clock
 después	after
+el destapador	bottle opener
 detrás de	behind, in back of
 devolver	to return
-el dìa	the day [m. b/c Greek]
-difìcil	hard
+el día	the day [m., Greek]
+diario	newspaper
+dibujo	drawing, sketch
+el diente	tooth, cog
+difícil	difficult, hard
 el dinero	money
-la direcciòn	direction, address
-dorado
+la direccion	direction, address
+el dolor	pain, ache, sorrow
+dorado	purple
 la ducha	shower
+dueda	debt
+dueño	owner
 dulce	sweet
+el durazno	peach
 durmiendo	sleeping
+duro	hard
+el daño	harm, injury, damage
+dé, de	give [subj. of dar], of
 
 la edad	age
 el edificio	building
-él, el	he, the
 ejemplo	example
-ejèrcito	army
+ejército	army
+él, el	he, the
+emocionado	excited
 empanada	turnover
+la empresa	firm, company
 encargado	manager
+el enchufe	plug, connection [also fem.]
+encima de	above, on top of
+encuentro	meeting
+enfadado	angry
 enfermero	nurse
 enfermo	sick
+engañar	to deceive
 enojado	angry
 entonces	then, at that time
+entrevista	interview
 equipaje	baggage
+el equipo	team
+escabel	footstool
+escala	scale, ladder
+la escalera	staircase
+la escoba	broom
 el escritorio	desk
 la escudilla	bowl
 la escuela	school
@@ -182,135 +300,223 @@ espesa	thick
 esposa	wife
 esquina	corner
 este	east
+estrecho	narrow
 estrella	star
 la estufa	stove
 excelsas	excellent
-èxito	success
+el excusado	toilet
 el extranjero	foreigner, stranger, foreign
+éxito	success
 extraño	strange
 
-fàcil	easy
+facíl	easy
 la falda	skirt
 la falta	mistake, lack
+la fe	faith
 la fecha	date
 feliz	happy
 feo	ugly
 el ferrocarril	railroad
+firma	signature
+el fregadero	sink
+los frenos	[car] brakes
+la frente	forehead
+el frente	front
 la fresa	strawberry
-frìo	cold
-fuego	fire
+frío	cold
+fuego	fire, gunfire
+fuente	source, fountain
 fuera	outside
 fuerte	strong
+fácil	easy
+el fósforo	match
 
+las gafas	eyeglasses
 gallina/gallo	chicken/rooster
-garra	claw
+la gana	desire
+la ganga	bargain
+la garganta	throat
+la garra	claw
+la gasolinera	gas station
 gato/a	cat
+la gaviota	seagull
 la gente	people
+el gerente	manager
 largo	long
+el golpe	hit, strike, punch
+la gorra	ballcap
 el granjero	farmer
+grave	serious
+grifo	faucet
+el grillo	cricket
 grito	cry, scream
+gruesa	heavy, thick, coarse, fat
+el guante	glove
 guapo	handsome
 la guerra	war
 
-habitaciòn	room
+habitación	room
 hacia	toward(s)
 las hadas	fairies
 hambre	hunger
+hasta	until
 helado	ice cream
 hermoso	beautiful
+la herramienta	tool
+hervido	boiled
+el hierro	iron
+el hilo	thread, yarn, wire
+la hincha	fan [sports]
+la hoja	sheet, leaf
 los hombros	shoulders
 la hora	hour, time
+el horario	schedule
 el horno	oven
-huachinango	snapper
+el huachinango	snapper
+la huella	trace, track, footstep
+el huerto	orchard
+el hueso	bone
 el huevo	egg
+el humo	smoke
 
 el idioma	language
 la iglesia	church
 imaginarse	to imagine
+el impuesto	tax
+ingeniero	engineer
+el ingreso	entrance, admission, income
+el inodoro	toilet bowl
 invierno	winter
 izquierdo	left
-el jardín	garden
 
 el jabón	soap
+jamás	never, ever
+el jardín	garden
+el jogar	hearth
+jornada	[working] day, shift
+joven	young
+la joya	jewel
 juevos	eggs
+juez	judge
 el jugo	juice
+el juguete	toy
 juntos	together
 
 los labios	lips
 el lado	side
-la lámpara	lamp
-el làpiz	pencil
+el ladrón	thief
+la lana	wool
 el lapicero	pen
-largo	long
+la lata	can
 el lavabo	sink
 la lavadora	washing machine
 el lavamanos	sink
 la leche	milk
 lejos	far
-leña	firewood
 la lengua	language, tongue
 lentamente
 los lentes	eyeglasses
+el letrero	street sign
 la ley	law
-el libro	book
+leña	firewood
 libre	free
+el libro	book
 ligero	light [weight]
+la lima	lime, file
+la limpiadora	mop
 limpio	clean
+el limón	lemon
 lindo	pretty
+liso	smooth
 listo	ready
-loco	crazy
-luego	then, after
-el lugar	place
+la llanta	tire
 la llave	key, tap, faucet, valve, wrench
+la llegada	arrival
 lleno	full
 lluvia	rain
+loco	crazy
+la lucha	fight, struggle, wrestle
+luego	then, after
 el lugar	place, spot
+el lujo	luxury
 la luna	moon
+el lápiz	pencil
+la lámpara	lamp
 
+la maceta	flowerpot
 la madera	wood
+madrugada	dawn, early morning
+maduro	ripe
+la maleta	suitcase
 el maní	peanut
 las manos	hands [b/c Latin manus is fem.]
+la manta	shawl, blanket
+el mantel	tablecloth
 mantequilla	butter
 la manzana	apple
 la mapa	map
 la mar	sea
 el marido	husband
+la mariposa	butterfly	
 mariscos	seafood
-màs, mas	more, but
-el mèdico	doctor
+marron	brown
+el martillo	hammer
+el matiz	hue
+la medianoche	midnight
+la medida	size, measurement
+la mentira	lie
+a menudo	often
 el mercado	market
+la merienda	snack
 el mes	month
 la mesa	table
-mì, mi	me, my
+la mesita	end table
+mezcla	mixture
 la microonda	microwave
 miedo	fear
 miedoso	fearful
 el miel	honey
 mientras que	while
+el milagro	miracle
 mitad	half
 la mochila	backpack
 la montaña	mountain
 morado	purple
 la mosca	fly
+el mozo	porter, young man
 los muebles	furniture
+una mueca	grin
+la muestra	sample, proof, sign
 la mujer	woman
+la multa	fine [fee]
 el mundo	world
+el muro	[outer] wall, rampart
 el museo	museum
+el muñeco	doll
+la muñeca	wrist
+más, mas	more, but
+el médico	doctor
+mí, mi	me, my
 la mùsica	music
 
+nacimiento	birth
 nada	nothing
 nadie	nobody
 la naranja	orange
 el nariz	nose
+la neblina	fog
 el negociante	businessman
 los negocios	business
 negro	black
 ni	neither, not even
+la nieta	grand-daughter
 la nieve	snow
 ninguno	no, none, nobody
+el nivel	level
 la noche	night
 el nombre	name
 el norte	north
+la noticía	news, piece of news
 novio	boyfriend, fiancè
 nubiado	cloudy
 nunca	never
@@ -318,8 +524,11 @@ nunca	never
 la obra	work, book
 oeste	west
 el ojo	eye
-el olor	odor
 olla	pot, saucepan
+el oloer	smell
+olor	odor
+el olor	odor
+la onda	wave
 onda	wave
 la orden	sequence
 el ordenador	computer
@@ -327,62 +536,98 @@ la oreja	ear
 el oro	gold
 oscuro	dark
 el oso	bear
+la oveja	sheep
 
+el paisaje	landscape
+página	page
+el pájaro	bird
 las palabras	words
-pàgina	page
+la palmera	palm tree
+la paloma	dove
+los pantalones	trousers
 el papel	paper
-el pared	wall
+el par	pair
+el parabrisas	windshield
+el paraguas	umbrella
+la pared	wall
+la pareja	couple, pair
 la parrilla	grill
+el partido	game, sporting event
 el pasajero	passenger
 el paseo	walk, ride
 pasillo	aisle, but also hall
+la pastilla	tablet, lozenge
 el pastor	shepherd
-patada	kick
+pata	leg, paw
+la patada	kick
 pato/a	duck
+el patròn	pedestrian
+el pavo	turkey
 el país	country, nation
+el pañuelo	handkerchief
+el pecado	sin
 el pecho	chest
+los pedazos	pieces
 pegado	glued
-el peligro	danger
+el peligro	danger, menace
 peligroso	dangerous
-película	movie
 el pelo	hair
-peludos	hairy
 la pelota	ball
+peludos	hairy
+película	movie
 la pena	ache, grief, pain, trouble
-la pensiòn	bordinghouse
-pequeño	little
+pensamiento	thought, thinking
+la pensión	bordinghouse
 peor	worse
+pequeño	little
+pérdida	loss
 perezosa	lazy
-el periòdico	newspaper
+el periódico	newspaper
 pero	but
 perro dog
 pesado	heavy
 el pescado	fish
+el petardo	firecracker
 pez	fish
+pez espada	swordfish
 picante	spicy
 pico	a little
 la pie	foot
 la piedra	stone, rock
+la piel	skin, fur, hide
 la pierna	leg
-la piña	pineapple
+el pimentero	pepper shaker
 la pintura	painting
 la piscina	swimming pool
 el piso	floor, apartment
+la pista	track, trail, clue
+la piña	pineapple
 placer	pleasure
+la plancha	iron, griddle
+el plano	map
 la plata	silver
 el plato	plate
 la playa	beach
+la pluma	pen, feather
+pobre	poor
+la policía	police
 el pollo	chicken
-pozo	well
-el précio	price, cost, value
-pregunta	question
+el polvo	dust, powder
+el pozo	well
+el pozo	well
+la pregunta	question
+el premio	prize, award
 el primavera	spring
 primo	cousin
+la prisa	hurry
 el problema	problem
 producir	produce, cause
 el programa	program (TV) (note: el)
 pronto	soon
-pròximo	next
+la propriedad	property
+el provecho	profit, benefit
+el précio	price, cost, value
+próximo	next
 el pueblo	village, people
 el puente	bridge
 el puerco	pork
@@ -390,44 +635,80 @@ la puerta	door
 pues	then, well then
 el puesto	post, stand, job, position
 pusar	to press, to push
+el puño	fist
 
-queso	cheese
 la queja	complaint
+queso	cheese
+quizás	perhaps
 
+rama	branch, limb
 el ranchero	rancher
-ràpido	rapid, quick
-rato	while
-la razòn	reason
+rasgo	feature, trait
+rato	moment, while, time
+el ratón	mouse
+raza	race, lineage
+la razón	reason
+la receta	recipe
+el recibo	receipt
+recuerdo	memory
 el refrigerador	refrigerator
+el regalo	present
+la regla	rule, regulation
+reina	queen
 el reloj	watch, clock
+el relámpago	lightning
+el repisa	shelf
 la respuesta	reply
+el retraso	delay
+la revista	magazine
+revéz	upside down
 rey	king
 rico	rich, delicious
-el rìo	river
+el rincón	corner, nook
+riqueza	riches, wealth
 risa	laughter
+la rodilla	knee
 rojo	red
+ronca	hoarse
 la ropa	clothes
 rosado	pink
 el rostro	face, visage
 roto	broken
+la rueda	wheel
+el ruido	noise, din
+rápido	rapid, quick
+el río	river
 
+sabor	taste, flavor
 la sala	room
+el salero	salt shaker
 la salida	exit
-salto	jump
+el salmón	salmon
+el salto	jump
 la salud	health
+las sandalias	sandals
 la sangre	blood
-sè, se	I know, one's self
+el sartén	pan
+el secadora	dryer
 seco	dry
 sed	thirst
 la seda	silk
 seguro	safe, sure, of course, [life] insurance
+según	according to
+el sello	stamp
+selva	jungle, forest
+selvaje	jungle
 semafora	traffic light
 semana	week
-si, sì	if, yes
+sencillo	simple, plain
+seno	breast, bosom, cavity
+una servilleta	napkin
+la señal	sign, mark
+sí, si	yes, if
 siempre	always
 la sierra	saw
-el silenciador	muffler
 el siglo	century
+el silenciador	muffler
 la silla	chair
 el sillón	armchair
 sin	without
@@ -438,28 +719,47 @@ sobre	over, about
 el sobre	the envelope
 el sol	sun
 solamente	alone
+soldado	soldier
 soleado	sunny
 el soltero	bachelor
 la sombra	shade, shadow
+sombra	shade
 el sonido	sound
 sonrir	to smile
 las sonrisas	smiles
 la sopa	soup
+sorpresa	surprise
+suave	smooth
+sucio	dirty
+sueldo	salary, pay
 el suelo	soil
-sur	south
+suelto	loose
 sueño	dream, sleep
+sur	south
+las sábanas	sheets
+sé, se	I know, one's self
 
+tal	such
+tamaño	size, dimension
 también	too, also
+tampoco	neither
 tanto	so much, so many
+la tapa	lid
+las tapas	snacks
 la tarde	afternoon
 tarde	late
+la tarjeeta	card
 la tarta	pie
-el telèfono	telephone
+la taza	cup
+el tazón	bowl
+el techo	ceiling
+tela	cloth, fabric
 la televisiòn	television [yes, la]
+el telèfono	telephone
 temprano	early
 el tenedor	fork
 la ternera	veal
-el tibùron	shark
+el tibúron	shark
 el tiempo	time, weather
 la tienda	store
 la tierra	land, earth
@@ -468,43 +768,64 @@ la tina	tub, bathtub
 la tinta	ink
 tirado	lying [on the ground]
 tirar	to pull
+tiro	throw, shot
 la toalla	towel
-todavìa	still, yet
+tobillos	ankles
+el tocino	bacon
+todavía	still, yet
 el tomate	tomato
 el tomatillo	tomatillo
-toronja	grapefruit
+la tormenta	storm
 el toro	bull
+toronja	grapefruit
+torpes	clumsy
 la torre	tower
+la tortuga	turtle
 la tos	cough
+el traje	suit
 tranquilo	tranquil, calm, quiet
 tren	train
 triste	sad
 la trucha	trout
-tù, tu	you, your
+el trueno	thunder
+tú, tu	you, your
 
 ùltimo	last
 ùtil	useful
+la uña	fingernail
+un	an, one
 
 la vaca	cow
+vacío	empty
 la valle	valley
+varón	male, man
 el vaso	glass
-¡vè!, ve	go!, sees
+¡vé!, ve	go!, sees
+el vecino	neighbor
 la velocidad	speed
+el venado	deer
+venta	sale
+la ventaja	advantage
 la ventana	window
 ventoso	windy
 verano	summer
 verde	green
 verduras	vegetables
+la verruga	wart
 el viaje	trip, voyage
 el viajero	passenger
 la vida	life
+vidrio	[made of] glass
 el viejo	old [man]
-la voz
 viento	wind, scent
+la voz	voice
 el vuelo	flight
-de vuelta	back
 la vuelta	change, turn stroll
+de vuelta	back
 
 ya	already, still
 
+el zancudo	mosquito
 los zapatos	shoes
+el zorro	fox
+

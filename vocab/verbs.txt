@@ -1,8 +1,16 @@
 abrir	to open
+acabar	to finish, to end
+aceptar	to accept
+afeitarse	to shave
 amar	to love
 andar	to walk
+aparecer	to appear
+aprender	to learn
+arrojar	to throw
+atar	to tie
 ayudar	to help
 
+bajar	to step down
 beber	to drink
 buscar	to look for
 
@@ -10,6 +18,7 @@ caer	to fall [irr.]
 cambiar	to change
 cocinar	to cook
 comer	to eat
+comenzar	to begin
 comprender	to understand
 conducir	to drive [irr.]
 conocer	to know [irr.]
@@ -20,12 +29,17 @@ correr	to run
 crear	to create
 creer	to believe
 
-decir	to say
 dar	to give [irr.]
+deber	to owe, ought to
+decidir	to decide
+decir	to say
+deletrear	to spell
 dormir	to sleep [irr.]
 
+emocionarse	to get excited
 empezar	to begin [irr.]
 encontrar	to find [irr.]
+enseñar	to teach
 entender	to understand [irr.]
 entrar	to enter
 escribir	to write
@@ -37,6 +51,7 @@ existir	to exist
 explicar	to explain
 
 formar	to form, to make
+fumar	to smoke
 
 ganar	to earn, to win
 gustarse	to like
@@ -53,22 +68,35 @@ leer	to read
 limpiar	to clean
 llamarse	to call oneself
 llegar	to arrive, to reach
+llenar	to fill
+llorar	to cry
 
 mantener	to maintain, to keep
 mirar	to watch, to look at
 morir	to die [irr.]
 mover	to move [irr.]
 
+nacer	to be born
+nadar	to swim
 necessitar	to need
 
 ocurrir	to occur, to happen
+odiar	to hate
 ofrecer	to offer
 oir	to hear
+olvidar	to forget
 
 pagar	to pay
 pasar	to happen, to pass
 pensar	to think
+permitir	to permit, to allow
+poder	to be able
+poner	to put
+preguntar	to ask
+presentar	to introduce, to present
+probar	to try [on]
 producir	to produce
+prohibir	to prohibit
 
 quedar to stay
 querer	to want [irr.]
@@ -80,18 +108,24 @@ regresar	to return
 
 saber	to know [irr.]
 salir	to leave, to go out [irr.]
+sentir	to feel
 ser	to be [irr.]
 sentar	to sit
+suponer	to suppose
 
 tener	to have [irr.]
+terminar	to finish
 tomar	to take
 trabajar	to work
 traducir	to translate [irr.]
 traer	to bring [irr.]
 
 usar	to use
+utilizar	to utilize
 
+vender	to sell
 venir	to come [irr.]
 ver	to see [irr.]
 vivir	to live
+volar	to fly
 volver	to return [irr.]

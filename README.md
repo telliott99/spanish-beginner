@@ -38,10 +38,17 @@ Also, one can list the first letters of the words to drill on.  For example 'abc
 
 ####
 
-Shell script.  I have ``bin`` directory on my ``$PATH`` and in there I put ``drill``, which is an executable.  It has
+Shell script.  I have ``bin`` directory on my ``$PATH`` and in there I put ``drill``, which is an executable.  It has one line
 
 ```
 python ~/Github/Español/scripts/drill.py $1 $2 $3
 ```
 
-This is a hack.  We don't actually count the environmental vars passed to Python.  But it seems to work well.s
+This is a hack.  We don't actually count the environmental vars passed to Python.  But it seems to work fine.
+
+Now I don't have to ``cd`` to the directory or invoke but just do
+
+```
+> drill
+el huevo
+```

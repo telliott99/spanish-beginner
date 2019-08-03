@@ -1,17 +1,14 @@
 import sys
+from utils import f, clean
+
 fn = sys.argv[1]
 
 with open(fn) as fh:
     data = fh.read().strip().split('\n')
-    
-def f(s):
-    if s.startswith('las'):  return s[4:]
-    if s.startswith('los'):  return s[4:]
-    if s.startswith('el'):  return s[3:]
-    if s.startswith('la'):  return s[3:]
-    return s
-        
+            
 data.sort(key = f)
+data = clean(data)
 
-with open(fn + '.sorted', 'w') as fh:
+ofn = '.'.join(fn.split('.')[:-1]) + '.sorted.txt'
+with open(ofn, 'w') as fh:
     fh.write('\n'.join(data))

@@ -3,17 +3,33 @@
 import os, sys
 from os import walk
 from string import lowercase
+from os.path import expanduser
 
-d = '/Users/telliott_admin/Github/Español/vocab'
-fL = os.listdir(d)
+h = expanduser('~')
+d = h + '/Github/Español/vocab'
+
+all_files = os.listdir(d)
+all_files.remove('.DS_Store')
+
 D = {}
 rD = {}
-args = sys.argv[1:]  # strip script name
 
-if 'new' in args:
-    print 'new words only'
-    fL = [fn for fn in fL if 'new' in fn]
+args = sys.argv[1:]
+std_args = [a for a in args if a in ['new','words','verbs','phrases']]
+rev = 'rev' in args
+if rev:
+    args.remove('rev')
 
+other_args = [a for a in args if not a in std_args]
+
+print 'std_args:', ' '.join(std_args)
+print 'other:   ', ' '.join(other_args)
+print 'rev:     ', rev
+
+fL = all_files
+for a in std_args:
+    fL = [fn for fn in fL if a in fn]
+    
 #print '\n'.join(fL)
 
 for fn in fL:
@@ -38,6 +54,6 @@ for fn in fL:
             except ValueError:
                 pass
 
-if 'rev' in args:
+if rev:
     print 'English to Spanish'
     D = rD

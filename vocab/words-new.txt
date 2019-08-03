@@ -1,359 +1,98 @@
-abogado	lawyer
-adelante	straight ahead
-la àguila	eagle
-la aguja	needle
-el alambre	wire
-alcance	reach, scope
-la alcoba	bedroom
-alegrìa	joy
-la alfombra	rug, carpet
-el algodòn	cotton
 la almohada	pillow
-alrededor	around
-amistad	friendship
-anocheser	dusk
-apenas	just
-apoyo	support, backing
-apretado	tight
-arma	weapon
-el armario	closet
-aseado	neat
-asombroso	amazing
 el asunto	matter, issue, affair
 asustado	frightened
-ausencia	absence
-atràs	back, behind, backward
-atrasado	slow
-aviòn	airplane
-
-el bacalao	cod
-bandera	flag
-la bañera	bathtub
-la barba	chin, beard
-barrio	neighborhood, district
-el basurero	trash can
+la barba	chin
 el bosillo	pocket
-
-calda	fall, drop, falling
-el caldero	pot
-las caderas	hips
-la caja	box, bank, safe
-la cajuela	[car] trunk
-la camarera	waitress
-la campana	bell
-el canciòn	song
-el cangrejo	crab
-cansado	tired
+el calmante	painkiller, sedative
+la camilla	stretcher
 capa	layer, coat
-capìtulo	chapter
-càrcel	jail, prison
-el carìño	love, affection
-la carretera	highway, road
-casado	married
-catarro	cold
-las cejas	eyebrows
-el cepillo	brush
-cerebro	brain
-la cereza	cherry
-los cerros	the hills
-ciego	blind
 la cierre	zipper
-cifra	figure, number, amount
-cinta	tape, ribbon, film
-el cinturòn	belt, seatbelt
-la ciruela	plum
-cita	appointment, date, quotation
 la cobija	blanket
-el codo	elbow
-la cola	line, queue, tail
-el colchòn	mattress
+el colchón	mattress
 el colgador	hanger
 la culebra	snake
 el colibri	hummingbird
-el colino	hill
-compra	purchase
-la copa	[wine] glass, drink
-el corazòn	heart
-la corbata	tie
-el correo	mail, post office
-corto	short
-la costa	coast
-crudo	raw
-el cuaderno	notebook
-el cuadro	painting, picture
-la cuadra	[city] block
-¿cuàll?	which, which one?
-cuando	when
-¿cuànto?	how much?
-la cucaracha	cockroach
-cuello	neck, collar
-el cuenco	bowl
-el cuerno	horn
-el cuero	leather
-el cuervo	crow
-culpa	blame, fault
-el cura	priest
-el chiste	joke, jest
-chocar	to collide, crash, shock
-
-el dàño	harm, injury, damage
-debajo de	below, underneath
-delante de	in front of
-delgado	thin, skinny
-demàs	[the] rest
-demasiado	too much
+el cuñado	brother in law
 desarrollo	development
-el despertador	alarm clock
 el destapador	bottle opener
-diario	newspaper
-dibujo	drawing, sketch
-el diente	tooth, cog
-el dolor	pain, ache, sorrow
+dirección	address
 dueda	debt
-dueño	owner
-el durazno	peach
-
-el enchufe	plug, connection [also fem.]
-emocionado	excited
-encima de	above, on top of
-encuentro	meeting
-enfadado	angry
-engañar	to deceive
-entrevista	interview
-el equipo	team
 escabel	footstool
+el emberazo	pregnancy
 la empresa	firm, company
-escala	scale, ladder
-la escalera	staircase
 la escoba	broom
 espesa	thick
-estrecho	narrow
-el excusado	toilet
-extranjero	foreigner
-
-la falda	skirt
-la fe	faith
-firma	signature
-el fòsforo	match
+la fiebre	fever
 el fregadero	sink
-el frente	front
-la frente	forehead
-los frenos	[car] brakes
-fuego	fire, gunfire
-fuente	source, fountain
-
 las gafas	eyeglasses
 la gana	desire
 la ganga	bargain
 la garganta	throat
-la gasolinera	gas station
-la gaviota	seagull
 el gerente	manager
-el golpe	hit, strike, punch
 la gorra	ballcap
-grifo	faucet
+el grifo	faucet
 el grillo	cricket
-gruesa	heavy, thick, coarse, fat
+grueso	heavy, thick, coarse, fat
 el guante	glove
-
-hacia	toward
-hasta	until
-la herramienta	tool
-hervido	boiled
-el hierro	iron
+la hancha	hook
+el hielo	ice
 el hilo	thread, yarn, wire
-el horario	schedule
-la hoja	sheet, leaf
-huella	trace, track, footstep
+la huella	trace, track, footstep
 el huerto	orchard
-hueso	bone
-el humo	smoke
+el hueso	bone
 la hincha	fan [sports]
-
-el impuesto	tax
 el ingreso	entrance, admission, income
-el inodoro	toilet bowl
-ingeniero	engineer
-
-jamàs	never, ever
 jornada	[working] day, shift
-joven	young
-la joya	jewel
-el juguete	toy
-juez	judge
-
-el ladròn	thief
 la lana	wool
-la lata	can
-el lavadora	washing machine
-leña	firewood
-el letrero	street sign
-la lima	lime, file
-la limpiadora	mop
-el limòn	lemon
+la lengua	tongue
 liso	smooth
 la llanta	tire
-la llegada	arrival
-la lucha	fight, struggle, wrestle
 el lujo	luxury
-
 la maceta	flowerpot
 maduro	ripe
 madrugada	dawn, early morning
-la maleta	suitcase
 la manta	shawl, blanket
 el mantel	tablecloth
-la mariposa	butterfly	
-marron	brown
 matiz	hue
-la medianoche	midnight
 la medida	size, measurement
-la mentira	lie
+la mejilla	cheek
 la merienda	snack
-la mesita	end table
-mezcla	mixture
-el milagro	miracle
-morado	purple
 el mozo	porter, young man
-una mueca	grin
-los muebles	furniture
 la muestra	sample, proof, sign
-la muñeca	wrist
-el muro	[outer] wall, rampart
-a menudo	often
 la multa	fine [fee]
-la muñeca	doll
-
-nacimiento	birth
-la neblina	fog
-la nieta	grand-daughter
-el nivel	level
-la noticìa	news, piece of news
-
-olor	odor
-el oloer	smell
-la onda	wave
-la oveja	sheep
-
-el pàjaro	bird
-el paisaje	landscape
-la palmera	palm tree
-la paloma	dove
-los pantalones	trousers
+el muslo	thigh
 el pañuelo	handkerchief
-el par	pair
-el parabrisas	windshield
-el paraguas	umbrella
-la pared	wall
-pareja	couple, pair
-el partido	game, sporting event
-la pastilla	tablet, lozenge
-el patròn	pedestrian
-el pecado	sin
-pata	leg, paw
-patada	kick
-el pavo	turkey
-los pedazos	pieces
-pegado	glued
-peligro	danger, menace
-pensamiento	thought, thinking
-pèrdida	loss
-perezosa	lazy
-el petardo	firecracker
-la piel	skin, fur, hide
-el pimentero	pepper shaker
 pista	clue
-la plancha	iron, griddle
 polvo	dust, powder
-el plano	map
-la pluma	pen, feather
-el pozo	well
 la prisa	hurry
 la propriedad	property
-el provecho	profit, benefit
-pròximo	next
-el puño	fist
-puente	bridge
-
-quizàs	perhaps
-
-rama	branch, limb
+el pulgar	thumb
 rasgo	feature, trait
 rato	moment, while, time
-el ratòn	mouse
-raza	race, lineage
-la receta	recipe
-el recibo	receipt
-recuerdo	memory
-el regalo	present
-la regla	rule, regulation
-reina	queen
-el relámpago	lightning
-el repisa	shelf
+la renta	rent
 el retraso	delay
 revèz	upside down
-la revista	magazine
-el rincòn	corner, nook
-riqueza	riches, wealth
+el riñón	kidney
+risa	laughter
 la rodilla	knee
-ronca	hoarse
 la rueda	wheel
-el ruido	noise, din
-
-sabor	taste, flavor
-las sàbanas	sheets
-el salero	salt shaker
-el salmòn	salmon
-las sandalias	sandals
-sangre	blood
-el sartén	pan
-el secadora	dryer
-segùn	according to
+las sábanas	sheets
 el sello	stamp
 sencillo	simple, plain
-selva	forest, jungle
 la señal	sign, mark
 seno	breast, bosom, cavity
-una servilleta	napkin
-soldado	soldier
-sorpresa	surprise
-suave	smooth
 sucio	dirty
 sueldo	salary, pay
 suelto	loose
-
 tal	such
+el talón	heel
 tampoco	neither
 tamaño	size, dimension
 la tapa	lid
-las tapas	snacks
-la tarjeeta	card
-la taza	cup
 el tazón	bowl
-el techo	ceiling
 tela	cloth, fabric
-tiro	throw, shot
-la toalla	towel
-el tocino	bacon
-la tormenta	storm
 torpes	clumsy
-la tortuga	turtle
-el traje	suit
-el trueno	thunder
 tobillos	ankles
-
-la uña	fingernail
-
-vacìo	empty
-varòn	male, man
-el vecino	neighbor
+vacío	empty
 el venado	deer
-venta	sale
 la ventaja	advantage
-la verruga	wart
-vidrio	[made of] glass
-
-el zancudo	mosquito
-el zorro	fox
-
-
