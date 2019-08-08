@@ -1,55 +1,89 @@
 aburrir	to bore
 acostarse	to go to bed
 alcanzar	to reach
+alejar	to move away
 añadir	to add
+annunciar	to announce
+aprovechar	to take advantage
+apoyar	to support
+arreglar	to fix
 atascar	to jam, clog, bog down
-chocar	to collide, crash, shock
+
+barrer	to sweep
+
+calzar  to wear
+caminar	to walk
+chocar	to crash
 conseguir	to get
-contar	to tell
+contestar	to answer
 convertirse	to become
-crecer	to grow
-cumplir	to achieve, to fulfill
+
 dejar	to leave, to allow
+depender	to depend on
+desaparecer	to disappear
 descubrir	to discover
-despertar	to wake
-dibujar	to draw
+despertarse	to wake
+destacar	to emphasize
 dirigir	to direct
+
+echar	to throw, to lie down
 enganar	to trick, to fool
+entregar	to deliver
 enviar	to send
 equivocarse	to be mistaken, to be wrong
 escoger	to choose
 esconder	to hide
-estacionar	to park
-exigir	to demand, require
+escuchar	to listen
+exigir	to demand, to require
+evitar	to avoid, to prevent
+
 fiar 	to trust
-firmar	to sign
+fijar	to fix, to set
+
 gastar	to spend
 girar	to turn
+guardar	to keep, to save
+
+hallar	to find out
+
 intentar	to try
+
 jurar	to swear
-levantar	to get up, to raise
-llegar	to arrive
-llevar	to wear, take away, carry
+
+lanzar	to throw, to launch
 lograr	to achieve, to manage
-manejar	to drive
-mojar	to wet
+
+meter	to put (into)
+mostrar	to show
+
+negar	to deny, to refuse
+
 parar	to stop
 parecer	to seem, to appear
 partir	to leave
-pedir	to ask for
-perder	to lose
-planchar	to iron
+permanecer	to stay, to remain
+pesar	to weigh
+prohibir	prohibit
+
 quemarar	to burn
+quisiera decir	i would like [subj?] to say
+quisiera una ensalada	i would like a salad
 quitarse	to take off [clothing]
+
+recibir	to receive
+reconocer	to recognize, to admit
 repartir	to distribute, to deal cards
 resultar	to turn out
 romper	to break
+
 sacar	to take out
 seguir	to follow
 servir	to serve, to function
+sonrir	to smile
+sorprender	to surprise
 subir	to climb
 sumar	to sum (up)
-tocar	to touch, to play
+
+temer	to fear
 tropezar	to trip
 tratar	to treat
-vestirse	to get dressed

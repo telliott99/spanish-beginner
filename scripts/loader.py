@@ -15,22 +15,35 @@ D = {}
 rD = {}
 
 args = sys.argv[1:]
-std_args = [a for a in args if a in ['new','words','verbs','phrases']]
+std_args = [a for a in args if a in ['nouns','verbs','adverbs','phrases']]
+
+phrases = False
+for a in std_args:
+    if a == 'phrases':
+        phrases = True
+
 rev = 'rev' in args
 if rev:
     args.remove('rev')
+new = 'new' in args
+if new:
+    args.remove('new')
 
 other_args = [a for a in args if not a in std_args]
 
 print 'std_args:', ' '.join(std_args)
 print 'other:   ', ' '.join(other_args)
+print 'new:     ', new
 print 'rev:     ', rev
+
+#--------------------------------
 
 fL = all_files
 for a in std_args:
-    fL = [fn for fn in fL if a in fn]
+    fL = [fn for fn in fL if fn.startswith(a)]
     
-#print '\n'.join(fL)
+if new:
+    fL = [fn for fn in fL if 'new' in fn]
 
 for fn in fL:
     with open(d + '/' + fn,'r') as fh:
@@ -41,6 +54,8 @@ for fn in fL:
             try:
                 sp,en = e.strip().split('\t')
                 if sp in D:
+                    if en in D[sp]:
+                        continue
                     D[sp].append(en)
                 else:
                     D[sp] = [en]
