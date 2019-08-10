@@ -1,52 +1,43 @@
-aburrir	to bore
-acostarse	to go to bed
 alcanzar	to reach
 alejar	to move away
 añadir	to add
-annunciar	to announce
 aprovechar	to take advantage
 apoyar	to support
 arreglar	to fix
-atascar	to jam, clog, bog down
 
 barrer	to sweep
+bastar	to be sufficient
 
 calzar  to wear
-caminar	to walk
 chocar	to crash
 conseguir	to get
-contestar	to answer
-convertirse	to become
 
 dejar	to leave, to allow
-depender	to depend on
-desaparecer	to disappear
-descubrir	to discover
+despedir	to say goodbye
 despertarse	to wake
 destacar	to emphasize
 dirigir	to direct
+disfrutar	to enjoy
 
 echar	to throw, to lie down
+encantar	to be pleasing to
 enganar	to trick, to fool
 entregar	to deliver
-enviar	to send
 equivocarse	to be mistaken, to be wrong
 escoger	to choose
 esconder	to hide
-escuchar	to listen
-exigir	to demand, to require
 evitar	to avoid, to prevent
+extrañar	to miss
 
 fiar 	to trust
 fijar	to fix, to set
 
 gastar	to spend
-girar	to turn
+gozar	to enjoy
 guardar	to keep, to save
 
 hallar	to find out
-
-intentar	to try
+huir	to flee
 
 jurar	to swear
 
@@ -54,35 +45,18 @@ lanzar	to throw, to launch
 lograr	to achieve, to manage
 
 meter	to put (into)
-mostrar	to show
 
-negar	to deny, to refuse
-
-parar	to stop
-parecer	to seem, to appear
 partir	to leave
-permanecer	to stay, to remain
-pesar	to weigh
-prohibir	prohibit
 
 quemarar	to burn
-quisiera decir	i would like [subj?] to say
-quisiera una ensalada	i would like a salad
 quitarse	to take off [clothing]
 
-recibir	to receive
-reconocer	to recognize, to admit
 repartir	to distribute, to deal cards
 resultar	to turn out
 romper	to break
 
-sacar	to take out
 seguir	to follow
-servir	to serve, to function
-sonrir	to smile
-sorprender	to surprise
-subir	to climb
-sumar	to sum (up)
+suceder	to happen
 
 temer	to fear
 tropezar	to trip

@@ -2,12 +2,11 @@
 def f(s):
     if not s or s == '':
         return s
-    pL = ['las','los','el','la','uno','una']
+    pL = ['a', 'las','los','el','la',
+          'uno','una','unos','unas']
     for p in pL:
-        if s.startswith(p):
+        if s.startswith(p + ' '):
             return s[len(p) + 1:]
-        if s.startswith('a '):
-            return s[2:]
     return s
 
 # already sorted

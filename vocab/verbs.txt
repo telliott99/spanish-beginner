@@ -1,14 +1,15 @@
 abrir	to open
+aburrir	to bore
 acabar	to finish, to end
-aceptar	to accept
+acostarse	to go to bed
 afeitarse	to shave
 amar	to love
 andar	to walk
-aparecer	to appear
+annunciar	to announce
 aprender	to learn
 arrojar	to throw
-ascender a  to ascend
 atar	to tie
+atascar	to jam, clog, bog down
 ayudar	to help
 
 bailar	to dance
@@ -16,18 +17,18 @@ bajar a	to step down
 beber	to drink
 buscar	to look for
 
-caer	to fall [irr.]
+caer	to fall
 cambiar	to change
+caminar	to walk
 cepillar	to brush
 cocinar	to cook
 comer	to eat
-comenzar	to begin
 comprender	to understand
-conducir	to drive [irr.]
-conocer	to know [irr.]
-considerar	to consider
+conducir	to drive
+conocer	to know
 contar	to tell, to count
-convertir	to convert, to change
+contestar	to answer
+convertir	to become, to change
 correr	to run
 crear	to create
 crecer	to grow
@@ -35,40 +36,42 @@ creer	to believe
 cubrir	to cover
 cumplir	to achieve, to fulfill
 
-dar	to give [irr.]
+dar	to give
 deber	to owe, ought to
-decidir	to decide
 decir	to say
 deletrear	to spell
+descubrir	to discover
 dibujar	to draw
-dormir	to sleep [irr.]
+dormir	to sleep
 
 emocionarse	to get excited
-empezar	to begin [irr.]
-encontrar	to find [irr.]
+empezar	to begin
+encontrar	to find
 enseñar	to teach
 entender	to understand [irr.]
 entrar	to enter
+enviar	to send
 escribir	to write
 escuchar	to listen to
 esperar	to wait, to hope
 estacionar	to park
-estar	to be [irr.]
+estar	to be
 estudiar	to study
-existir	to exist
-explicar	to explain
+exigir	to demand, to require
 
 firmar	to sign
 formar	to form, to make
 fumar	to smoke
 
 ganar	to earn, to win
+girar	to turn
+golpear	to hit
 gustarse	to like
 
 hablar	to speak
 hacer	to do, to make [irr.]
 
-imaginarse	to imagine
+intentar	to try
 ir a	to go [irr.]
 
 jugar	to play [irr.]
@@ -83,27 +86,24 @@ llevar	to wear, take away, carry
 llenar	to fill
 llorar	to cry
 
-mantener	to maintain, to keep
 mirar	to watch, to look at
 mojar	to wet
-morir	to die [irr.]
-mover	to move [irr.]
+morir	to die
+mostrar	to show
 
 nacer	to be born
 nadar	to swim
-necessitar	to need
 
-ocurrir	to occur, to happen
 odiar	to hate
-ofrecer	to offer
 oir	to hear
 olvidar	to forget
 
-pagar	to pay
+parar	to stop
 pasar	to happen, to pass
 pedir	to ask for
 pensar	to think
 perder	to lose
+permanecer	to stay, to remain
 permitir	to permit, to allow
 planchar	to iron
 poder	to be able
@@ -111,42 +111,39 @@ poner	to put
 preguntar	to ask
 presentar	to introduce, to present
 probar	to try [on]
-producir	to produce
-prohibir	to prohibit
-pusar	to press, to push
 
 quedar to stay
-querer	to want [irr.]
+querer	to want
 
 realizar	to achieve
-recibir	to receive
 recordar	to remember
+reconocer	to recognize, to admit
 regresar	to return
 
-saber	to know [irr.]
-salir	to leave, to go out [irr.]
-sentir	to feel
-ser	to be [irr.]
+saber	to know
+sacar	to take out
+salir	to leave, to go out
 sentar	to sit
+sentir	to feel
+ser	to be
+servir	to serve, to function
+sonrir	to smile
+sorprender	to surprise
 subir a to go up
 suponer	to suppose
 
-tener	to have [irr.]
-terminar	to finish
+tener	to have
 tirar	to pull
 tocar	to touch, to play
 tomar	to take
 trabajar	to work
-traducir	to translate [irr.]
-traer	to bring [irr.]
-
-usar	to use
-utilizar	to utilize
+traducir	to translate
+traer	to bring
 
 vender	to sell
-venir a	to come [irr.]
-ver	to see [irr.]
+venir a	to come
+ver	to see
 vestirse	to get dressed
 vivir	to live
 volar	to fly
-volver	to return [irr.]
+volver	to return

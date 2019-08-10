@@ -1,6 +1,7 @@
 abajo	downstairs
 acá	here
 acentro	inward
+además	moreover, besides
 afuera	[on the] outside
 ahora	now
 ahorita	right now
@@ -8,12 +9,12 @@ algo	something
 allí	there
 aquel	that
 arriba	upstairs
-apúrense	hurry!
 aunque	even though
 
 bastante	enough
 
 cada	each
+casi	almost
 cerca de	near
 cual	which, which one?
 cuando	when
@@ -31,6 +32,7 @@ fuera	outside
 
 lejos	far
 lentamente	slowly
+luego	then, after
 
 mientras que	while
 más, mas	more, but
@@ -50,6 +52,7 @@ rápido	quickly
 según	according to
 sí, si	yes, if
 siempre	always
+siguiente   following
 sin	without
 
 también	too, also

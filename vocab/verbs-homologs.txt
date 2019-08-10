@@ -1,0 +1,28 @@
+aceptar	to accept
+aparecer	to appear
+ascender a  to ascend
+comenzar	to begin
+considerar	to consider
+decidir	to decide
+depender	to depend on
+desaparecer	to disappear
+existir	to exist
+explicar	to explain
+imaginarse	to imagine
+mantener	to maintain, to keep
+mover	to move
+necessitar	to need
+negar	to deny, to refuse
+ocurrir	to occur, to happen
+ofrecer	to offer
+pagar	to pay
+parecer	to seem, to appear
+pesar	to weigh
+producir	to produce
+prohibir	to prohibit
+pusar	to press, to push
+recibir	to receive
+sumar	to sum (up)
+terminar	to finish
+usar	to use
+utilizar	to utilize

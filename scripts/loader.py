@@ -28,6 +28,9 @@ if rev:
 new = 'new' in args
 if new:
     args.remove('new')
+old = 'old' in args
+if old:
+    args.remove('old')
 
 other_args = [a for a in args if not a in std_args]
 
@@ -42,8 +45,10 @@ fL = all_files
 for a in std_args:
     fL = [fn for fn in fL if fn.startswith(a)]
     
-if new:
+if new and not old:
     fL = [fn for fn in fL if 'new' in fn]
+if old and not new:
+    fL = [fn for fn in fL if 'new' not in fn]
 
 for fn in fL:
     with open(d + '/' + fn,'r') as fh:

@@ -33,6 +33,7 @@ if n:
     kL = kL[:n]
     
 s = str(len(kL))
+print len(kL), 'items'
 
 while True:
     random.shuffle(kL)
@@ -50,8 +51,8 @@ while True:
         print trans
         time.sleep(0.5)
         if (n > 0 and count >= n) \
-            or (n == 0 and count >= limit) \
-            or count > 10:
+        or (n == 0 and count >= limit) \
+        or count >= 10:
             os.system('clear')
             print str(total) + '/' + s + ':  '
             count = 0
