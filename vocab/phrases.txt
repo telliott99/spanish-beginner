@@ -28,9 +28,10 @@ buena idea	good idea
 
 cable de alimentación	power cord
 cada vez	each time
-cada vez que la veía    whenever i saw her [cada w/ m. or f.]
+cada vez que la veía    whenever i saw her
 caja de herramientas	toolbox
 calcetines fueras	socks off
+cálculos renales	kidney stones
 camisa manga larga	long sleeve shirt
 el capital, la capital	money, capital [country]
 carne de vaca	beef
@@ -40,9 +41,10 @@ chicharron de queso	browned skin of cheese
 ciento por ciento	one hundred percent
 claro que sí	yes, of course
 colgado al hombro llevaba un bolso	hanging from the shoulder he carried a bag
+¿Cómo te fue?	how did it go?
 con permiso	excuse me [in the way]
 cortadoras de césped	lawnmower
-creo que sì	i think so
+creo que sí	i think so
 cuando llueve ponen las mesas adentro	when it rains they put the tables inside
 cuando puedas	when you can
 cuando yo era joven when i was young
@@ -51,7 +53,6 @@ cuchara para servir	serving spoon
 una cucharada	spoon, spoonful
 el cuerpo humano se compone de millones de células	cells	the human body is composed of millions of cells
 el cura, la cura	priest, cure
-cálculos renales	kidney stones
 
 de cuerpo entero	full-length
 de veras	really
@@ -99,7 +100,8 @@ el frente, la frente	front, forehead
 
 las gafas del sol	sunglasses
 
-hay rebaja en blusas de algodón	there is a sale on cottom blouses
+hacer velas	to go sailing (make sails)
+hay rebaja en blusas de algodón	there is a sale on cotton blouses
 hijo varón	male child
 
 igualmente	the same here
@@ -145,6 +147,7 @@ perdoneme	pardon me (ex: for a sneeze)
 a pie	on foot
 piso mojado	wet floor
 la pista correcta	the right trail
+pista de despegue	runway
 el policía, la policía	the police officer, the police force
 el poniente es donde el sol se levanta	the east is where the sun rises
 por ahi	over there
@@ -156,13 +159,7 @@ por su puesto	of course
 puede ayudarme por favor	please help me
 la puesta de sol	sunset
 
-quiero ir al centro	I want to go downtown
-quisiera una habitación tranquilo
-quisiera ver ese libro	I would like to see that book
-quisiera decir	i would like [subj?] to say
-quisiera una ensalada	i would like a salad
 quizás	perhaps
-qué significa esta palabra	what does this word mean
 qué tal	how are you
 
 La raíz del árbol está muy profunda en la tierra	the root of the tree is very deep

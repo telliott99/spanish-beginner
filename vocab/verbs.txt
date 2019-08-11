@@ -3,6 +3,7 @@ aburrir	to bore
 acabar	to finish, to end
 acostarse	to go to bed
 afeitarse	to shave
+alcanzar	to reach
 amar	to love
 andar	to walk
 annunciar	to announce
@@ -21,6 +22,7 @@ caer	to fall
 cambiar	to change
 caminar	to walk
 cepillar	to brush
+chocar	to crash
 cocinar	to cook
 comer	to eat
 comprender	to understand
@@ -44,13 +46,15 @@ descubrir	to discover
 dibujar	to draw
 dormir	to sleep
 
+echar	to throw, to lie down
 emocionarse	to get excited
 empezar	to begin
 encontrar	to find
 enseñar	to teach
-entender	to understand [irr.]
+entender	to understand
 entrar	to enter
 enviar	to send
+escoger	to choose
 escribir	to write
 escuchar	to listen to
 esperar	to wait, to hope
@@ -69,12 +73,13 @@ golpear	to hit
 gustarse	to like
 
 hablar	to speak
-hacer	to do, to make [irr.]
+hacer	to do, to make
+hallar	to find out, to be found
 
 intentar	to try
-ir a	to go [irr.]
+ir a	to go
 
-jugar	to play [irr.]
+jugar	to play
 
 lavar	to wash
 leer	to read

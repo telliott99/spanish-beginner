@@ -7,7 +7,7 @@ In my local copy I have some scans of stories that are then marked up with new v
 The main item of interest is a python script to drill me on vocabulary.  For example:
 
 ```
-> cd ~/Github/Español
+> cd ~/Github/Español/scripts
 > python drill.py
 el tazón	bowl
 Si!

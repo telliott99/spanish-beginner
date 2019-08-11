@@ -48,8 +48,8 @@ apprendizaje	apprenticeship
 apretado	tight
 la araña	spider
 el árbitro	referee
-el arbol	tree
-arcilla	clay
+el árbol	tree
+la arcilla	clay
 la arena	sand
 arma	weapon
 el armario	closet
@@ -253,7 +253,7 @@ delgado	thin, skinny
 delito	crime,offense
 demasiado	too much
 deportes	sports
-derecho	right
+derecho	right, straight
 desarrollo	development
 desayuno	breakfast [Mex. just coffee]
 el despertador	alarm clock
@@ -285,6 +285,7 @@ el edificio	building
 ejemplo	example
 ejército	army
 él, el	he, the
+el email	email address
 emocionado	excited
 empanada	turnover
 el emberazo	pregnancy
@@ -405,7 +406,7 @@ la huella	footprint
 el huerto	orchard
 el hueso	bone
 el huésped	guest
-el huevo	egg
+el huevo	egg [huevos ≈ fuck off]
 humedo	damp
 el humo	smoke
 
@@ -426,7 +427,6 @@ jornada	[working] day, shift
 joven	young, youth
 la joya	jewel
 jubilado	retired
-juevos	eggs
 juez	judge
 el jugo	juice
 el juguete	toy
@@ -482,6 +482,7 @@ la madera	wood
 madrugada	dawn
 maduro	ripe
 la maleta	suitcase
+la manga	sleeve
 el maní	peanut
 las manos	hands [b/c Latin manus is fem.]
 la manta	shawl
@@ -490,6 +491,7 @@ mantequilla	butter
 la manzana	apple
 la mapa	map
 la mar	sea
+maravillas	wonderful
 el marido	husband
 la mariposa	butterfly	
 mariscos	seafood

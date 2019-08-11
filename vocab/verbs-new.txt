@@ -1,4 +1,4 @@
-alcanzar	to reach
+agarrar	to grab
 alejar	to move away
 añadir	to add
 aprovechar	to take advantage
@@ -9,7 +9,6 @@ barrer	to sweep
 bastar	to be sufficient
 
 calzar  to wear
-chocar	to crash
 conseguir	to get
 
 dejar	to leave, to allow
@@ -19,12 +18,10 @@ destacar	to emphasize
 dirigir	to direct
 disfrutar	to enjoy
 
-echar	to throw, to lie down
 encantar	to be pleasing to
-enganar	to trick, to fool
+engañar	to trick, to fool
 entregar	to deliver
 equivocarse	to be mistaken, to be wrong
-escoger	to choose
 esconder	to hide
 evitar	to avoid, to prevent
 extrañar	to miss
@@ -36,7 +33,6 @@ gastar	to spend
 gozar	to enjoy
 guardar	to keep, to save
 
-hallar	to find out
 huir	to flee
 
 jurar	to swear
@@ -48,7 +44,7 @@ meter	to put (into)
 
 partir	to leave
 
-quemarar	to burn
+quemar	to burn
 quitarse	to take off [clothing]
 
 repartir	to distribute, to deal cards

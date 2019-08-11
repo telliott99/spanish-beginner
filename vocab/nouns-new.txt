@@ -1,20 +1,32 @@
 el apoyo	support, backing
+la astilla	splinter
 el asunto	affair
 el barro	clay
 los bigotes	whiskers
+el buzón	mailbox
+buzón de voz	voicemail
+el cacharro	pots
+canela	cinnamon
 el cargo	position
+cartera	purse
+la charla	chat
+compromismo	commitment [!]
 la culebra	snake
 desarrollo	development
 la empresa	company
+feria	fair
+galleta	cookie
 la gana	desire
 la ganga	bargain
 la hancha	hook
 la huella	footprint
 la hincha	[sports] fan
+la jarrón 	vase
+lodo	mud
 maletine	briefcase
+mancha	stain
 el maní	peanut
 el mantel	tablecloth
-maravillas	wonderful
 orgulloso	proud
 la palomilla	moth
 el pañuelo	handkerchief
@@ -22,8 +34,12 @@ las patillas	sideburns
 la pelea	fight
 la prenda	garment
 el rasgo	feature
+el reto	challenge
 la seda	silk
 sedoso	silky
 el sello	stamp
+el sorbo	sip
 la tarea	task, job
-la ventaja	advantage
+tarro	jar
+tornillos	screws
+trastos	junk
