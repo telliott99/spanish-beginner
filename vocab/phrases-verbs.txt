@@ -16,6 +16,7 @@ El jefe advirtió al empleado que dejara de causar problemas	the boss warned the
 Advirtió un olor extraño	she noticed a strange odor
 
 -agarrar
+Agarra unas galletas si quieres	take some cookies if you want
 me puse unos guantes para agarrar la escudilla caliente	I put on some gloves to grab the hot bowl
 
 -alcanzar
@@ -144,6 +145,11 @@ dar vuelta a la izqierda	turn left
 Le voy a dar otra capa de barniz a esta mesa	i'm going to give another coat of varnish to this table
 La hoja de laurel le da un sabor único a la sopa	bay leaf gives a unique flavor to the soup
 ¿Quieres dar un paseo por el río?	would you like to take a walk by the river
+dar un abrazo	to embrace
+dar recuerdos	to give regards
+dar una vuelta	to take stroll
+dar cuenta de	to realize
+dar prisa	to hurry
 
 -decir
 dígame si duele	tell me if it hurts
@@ -157,6 +163,7 @@ ya sabes que debes ponerte la corbata	now, you know you have to wear a tie
 -dejar
 dejar una propina	leave a tip
 Deja el libro en la mesa cuando acabes de leerlo	leave the book on the table ...
+dejar caer	to drop
 
 -despedir
 Se despidió de sus amigos	he said goodbye to his friends
@@ -201,7 +208,9 @@ Al fin encontré las llaves del carro	i finally found the car keys
 Ellos encontraron una caja vieja en el bosque	they found an old box in the forest
 
 -engañar
+Pudo engañar al público con su propaganda	he could trick the public with his propaganda
 Me dijiste que no sabías jugar, ¡me engañaste!	you told me  .. you tricked me
+decidió engañar el hambre con una merienda	she decided to curb her hunger with a snack
 
 -enseñar
 mi padre me enseñó a pescar	my father taught me to fish
@@ -231,6 +240,7 @@ Mi madre se equivocó de tren	my mother [got on the wrong] train
 
 -errar
 Messi erró el penal y el partido terminó empatado	Messi missed the penalty and the game ended tied
+Silvio erró por las calles desiertas toda la noche	Silvio wander through the empty streets all night
 
 -esconder
 Escondió su regalo debajo de la cama	he hid his gift under the bed
@@ -242,6 +252,7 @@ El piloto revisó la manga antes de escoger una pista de despegue	the pilot chec
 
 -esperar
 Esperamos que cocines bien	we hope you cook [subj] well
+Espera que ya vengo	wait, now i'm coming
 
 -evitar
 Gira aquí a la izquierda si quieres evitar el tráfico	turn left here if you want to avoid the traffic
@@ -258,6 +269,7 @@ me extraña (que digas esto)	i'm surprised that you should say that
 
 -faltar
 me falta una persona con quien me pueda comunicar	i don't have a person with whom I can communicate
+¿Así que has faltado a tu cita con el dentista	so you didn't go to your dentist appointment?
 
 -fijar
 Tienes que fijar la lámpara al techo con los tornillos	you have to attach the lamp to the ceiling with the screws
@@ -273,6 +285,7 @@ Me gusta la comida mexicana	i like mexican food
 
 -girar
 Tienes que girar la llave de manera suave	you must turn the key smoothly
+Mi madre me giró $300	my mother transferred to me $300
 
 -haber
 los había leído todos, sin comprender mucho	I've read all of them, without understanding much
@@ -291,6 +304,7 @@ hacer la cama	to make the bed
 haga la conexión	make the connection
 haré lo que sea necesario   i will do whatever is needed
 a la vez que hacía la broma, sonría as he was telling the joke, he laughed
+hacer una pregunta	to ask a question
 
 -hallar
 Hallé un restaurante precioso en Puerto Vallarta	I discovered a lovely restaurant
@@ -317,10 +331,13 @@ deberías leer las obras completas	you ought to read the complete works
 se produjo un error al leer el documento	it produced an error on reading the document
 
 -levantarse
+¿A qué hora te levantaste hoy?	at what time did you get up today?
 el oriente es donde el sol se levanta	the east is where the sun rises
+Levanten sus copas	raise your glasses
 
 -limpiar
 Yo quiero que tú limpies el baño	I would like that you would .. [pres subj]
+Esta loción limpia la piel sin secarla 	this lotion cleans the skin without drying it
 
 -llamar
 Llama a tu hermano para que te ayude a poner la mesa	call to your brother to ..
@@ -329,6 +346,7 @@ Tendré que llamarte en unos minutos	i'll have to call you in a few minutes
 -llegar
 llegaré al fondo de esta cuestión	I'll get to the bottom of this question
 pronto llegan tus abuelos de Cuba	soon your grandparents arrive from Cuba
+llegar a ser	to become
 
 -llevar
 ellos no llevan los zapatos	they don't wear shoes
@@ -354,6 +372,7 @@ Logré sacar un día de playa	I was able to sneak in a beach day
 -mirar
 miraba distraída a las estrellas	i gazed absent-mindedly at the stars
 Miró hacia atrás	he looked backward
+Mi habitación mira a la calle	my room faces the street
 
 -morir
 Mi abuela se murió con 104 años	my grandmother died at 104
@@ -378,6 +397,7 @@ necesito que me lo digas	i need you to tell me
 
 -obtener
 obtener la máxima ventaja de una situación	.. advantage ..
+Obtuvieron el apoyo de uno de los escritores más conocidos de toda España	they received the support of one of the most known ..
 
 -oler
 Este jabón huele muy rico [oler]	this soap smells very nice
@@ -476,7 +496,7 @@ Quítense la ropa mojada	take off your wet clothes
 
 -realizar
 Me muero por realizar un viaje	i'm dying to make a trip
-Realizaron los experimentos	they carried out the experiments
+Realizaron los experimentos sin tocar ningún animal	they carried out the experiments without touching ..
 
 -recordar
 Por su vida no puede recordar mi nombre	for his life he can't remember my name
@@ -500,6 +520,8 @@ Los oí riñendo en voz baja	i heard them arguing in low voices
 
 -repartir
 Mi abuelo repartió su riqueza entre sus hijos	my grandfather distributed his riches among his sons
+Reparte la mantequilla por el pan	spread the butter over the bread
+Se repartieron todas sus posesiones antes de su mudanza a Oregon	they gave away all their possessions ..
 
 -resultar
 ¿Cómo resultaron las elecciones?	how did the election turn out?
@@ -514,6 +536,7 @@ Rompió el vaso por accidente	he broke the vase by accident
 Ella ha roto la pila de su teléfono	she wore out the battery ..
 
 -saber
+Mi hijo no sabe amarrarse los zapatos	my son doesn't know how to tie his shoes
 Lo supe porque lo vi por internet	i know that because i saw it online
 ¿Sabes hablar japonés?	do you know how to speak japanese?
 no sé de dónde viene	i don't know where it's coming from
@@ -526,14 +549,18 @@ Hay varias maneras de sacar una astilla	there are various ways to remove a splin
 
 -salir
 Con estas calificaciones, no saldrás hasta el verano	with these grades, you're not going out till summer
+Salgamos este fin de semana	let's go out this weekend
+Al final de todo, las cosas me salieron bien	after everything, it worked out well for me
 
 -seguir
 siga derecho por esta calle	keep going straight on this street
 sigue trabajando	keep working
+No sigo tu lógica	i don't follow your logic
 
 -sentar
 Siéntese derecho	sit upright [straight]
-síentese por favor	sit down, please
+siéntese por favor	sit down, please
+¿Por qué no te sientas un rato?	why don't you sit down for a bit?
 
 -sentir
 Lo siento	i'm sorry
@@ -546,6 +573,8 @@ Esta compañía sirve a clientes	this company serves clients
 
 -significar
 qué significa esta palabra	what does this word mean
+no significa nada para mí	it means nothing to me
+significarse por	it became known for
 
 -sorprender
 Sus amigos la sorprendieron	her friends surprised her
@@ -557,12 +586,17 @@ Los veo venir subiendo la cuesta	i see them coming up the hill
 
 -suceder
 ¿Qué sucedió con el gato?	what happened to the cat?
+suceda lo que suceda	what happens, happens
+no le había sucedido eso nunca	that had never happened to him
 
 -suponer
 Suponiendo que lleguen tarde	supposing they are late
+Lo suponía mucho más rico de lo que es	i supposed he was much richer than he is
 
 -temer
+no temas	don't be afraid
 No temas, hijo. Solo fue una pesadilla	don't be frightened, son.  it was just a bad dream.
+me temo que no vendrá	i'm afraid she won't come
 
 -tener
 qué tengo que hacer	what should I do
@@ -583,9 +617,11 @@ La banda está tocando una canción antigua	the band is playing an old song
 se acercó hasta tocar su rodilla con la mía she got closer until her knee touched mine
 
 -tomar
-tomar el tren	to take the train
+Tomó el dinero y se lo metió en el bolsillo	he took the money and put it in his pocket
+tuve que tomar el tren para ir a trabajar	i had to take the train to work
 tomar un trago	to take a drink [alcoholic]
 tomó un sorbo de agua	he took a sip of water
+Sal y toma un poco de aire fresco	go out and get some fresh air
 
 -trabajar
 me encanta trabajar el barro y crear cacharros	i love working the clay and making pots
@@ -610,9 +646,13 @@ Siempre nos tropezamos en el supermercado	we always run into each other in the m
 Se espera que se trate con respeto a la gente mayo	it is expected that one treats the elederly with respect
 Tras tratarlo con medicamentos	After treating him with medication
 
+-usar
+usar un traje	wear a suit
+¿sabes usar esta máquina?	do you know how to use ..
+estos guantes están sin usar	these gloves haven't been worn
+
 -utilizar
 utilizamos un rodillo para pintar las paredes	we use a roller to paint the walls
-usar un traje	wear a suit
 
 -valer
 valer la pena	to be worth the effort
@@ -621,6 +661,11 @@ En esta ecuación, la variable X vale 2.5	in that equation, x is equal to 2.5
 -venir
 Vine a la casa para almorzar	i came back home for lunch
 Esta comida viene ya hecha	this food comes already made
+El perro vendrá cuando tenga hambre	the dog will come when it's hungry
+La semana que viene estaré trabajando desde casa	next week i'll be working from home
+¿Te viene bien encontrarnos en el restaurante?	does it suit you to meet at the restaurant?
+¿A qué vienes con decir eso?	what do you mean by saying that?
+Se vino una tormenta mientras nadábamos en la playa	Storm came upon us as we were swimming at the beach
 
 -ver
 veo a Juan pero no veo su carro    I see Juan but I don't see his car
@@ -629,6 +674,7 @@ ver es creer	seeing is believing
 
 -vestirse
 no siempre vestía ropa de mujer	he doesn't always wear women's clothing
+Sara se vistió de hada para su fiesta de cumpleaños	Sara was dressed as a fairy ..
 
 -volver
 Vuelve con el recibo si quieres un crédito en la tienda	return with the receipt if ..

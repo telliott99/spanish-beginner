@@ -1,0 +1,20 @@
+ser
+soy     eres     es      somos    son
+fui     fuiste   fue     fuimos   fueron
+era     eras     eras    éramos   eran
+siendo, sido
+-----
+estar
+estoy   estás    está    estamos  están
+estuve  estuves  estuvo  imos     ieron
+estando, estado
+-----
+haber
+h+      *he     as     a     emos     an
+hub+            iste   o     imos    ieron
+habiendo, habido
+-----
+saber
+sab+    *se     es     e     emos     en
+sup+    e       iste   o     imos     ieron
+sabiendo, sabido
