@@ -4,10 +4,14 @@ acabar	to finish, to end
 acostarse	to go to bed
 afeitarse	to shave
 alcanzar	to reach
+alejar	to move away
 amar	to love
+añadir	to add
 andar	to walk
 annunciar	to announce
 aprender	to learn
+aprovechar	to take advantage
+arreglar	to fix
 arrojar	to throw
 atar	to tie
 atascar	to jam, clog, bog down
@@ -15,10 +19,13 @@ ayudar	to help
 
 bailar	to dance
 bajar a	to step down
+barrer	to sweep
+bastar	to be sufficient
 beber	to drink
 buscar	to look for
 
 caer	to fall
+calzar  to wear
 cambiar	to change
 caminar	to walk
 cepillar	to brush
@@ -28,6 +35,7 @@ comer	to eat
 comprender	to understand
 conducir	to drive
 conocer	to know
+conseguir	to get
 contar	to tell, to count
 contestar	to answer
 convertir	to become, to change
@@ -38,49 +46,73 @@ creer	to believe
 cubrir	to cover
 cumplir	to achieve, to fulfill
 
-dar	to give
+dar	to give to
 deber	to owe, ought to
 decir	to say
+dejar	to leave, to allow
 deletrear	to spell
 descubrir	to discover
+despedir	to say goodbye
+despertarse	to wake
+destacar	to emphasize
 dibujar	to draw
+dirigir	to direct
+disfrutar	to enjoy
 dormir	to sleep
 
 echar	to throw, to lie down
 emocionarse	to get excited
 empezar	to begin
+encantar	to be pleasing to
 encontrar	to find
+engañar	to trick, to fool
 enseñar	to teach
 entender	to understand
 entrar	to enter
+entregar	to deliver
 enviar	to send
+equivocarse	to be mistaken, to be wrong
 escoger	to choose
+esconder	to hide
 escribir	to write
 escuchar	to listen to
 esperar	to wait, to hope
 estacionar	to park
 estar	to be
 estudiar	to study
+evitar	to avoid, to prevent
 exigir	to demand, to require
+extrañar	to miss
 
+faltar	to be lacking to
+fiar 	to trust
+fijar	to fix, to set
 firmar	to sign
 formar	to form, to make
 fumar	to smoke
 
 ganar	to earn, to win
+gastar	to spend
 girar	to turn
 golpear	to hit
-gustarse	to like
+gozar	to enjoy
+guardar	to keep, to save
+gustarse	to be pleasing to [to like]
 
 hablar	to speak
 hacer	to do, to make
 hallar	to find out, to be found
+huir	to flee
 
+importar	to be important to
 intentar	to try
+interesar	to be interesting
 ir a	to go
 
 jugar	to play
+jurar	to swear
 
+lanzar	to throw, to launch
 lavar	to wash
 leer	to read
 levantar	to get up, to raise
@@ -89,10 +121,13 @@ llamarse	to call oneself
 llegar	to arrive, to reach
 llevar	to wear, take away, carry
 llenar	to fill
+lograr	to achieve, to manage
 llorar	to cry
 
-mirar	to watch, to look at
+meter	to put (into)
+mirar	to look at
 mojar	to wet
+molestar	to bother
 morir	to die
 mostrar	to show
 
@@ -104,6 +139,8 @@ oir	to hear
 olvidar	to forget
 
 parar	to stop
+parecer	to appear, to seem
+partir	to leave
 pasar	to happen, to pass
 pedir	to ask for
 pensar	to think
@@ -118,16 +155,22 @@ presentar	to introduce, to present
 probar	to try [on]
 
 quedar to stay
+quemar	to burn
 querer	to want
+quitarse	to take off [clothing]
 
 realizar	to achieve
 recordar	to remember
 reconocer	to recognize, to admit
 regresar	to return
+repartir	to distribute, to deal cards
+resultar	to turn out
+romper	to break
 
 saber	to know
 sacar	to take out
 salir	to leave, to go out
+seguir	to follow
 sentar	to sit
 sentir	to feel
 ser	to be
@@ -135,8 +178,10 @@ servir	to serve, to function
 sonrir	to smile
 sorprender	to surprise
 subir a to go up
+suceder	to happen
 suponer	to suppose
 
+temer	to fear
 tener	to have
 tirar	to pull
 tocar	to touch, to play
@@ -144,6 +189,8 @@ tomar	to take
 trabajar	to work
 traducir	to translate
 traer	to bring
+tratar	to treat
+tropezar	to trip
 
 vender	to sell
 venir a	to come

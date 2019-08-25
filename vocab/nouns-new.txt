@@ -1,45 +1,100 @@
+alcance	scope
+la alfombra	carpet, rug
+el almacén	grocery store
+la almohada	pillow
+la amaneza	threat
 el apoyo	support, backing
+apretado	tight
+la arcilla	clay
+asombroso	amazing
 la astilla	splinter
-el asunto	affair
+
+la baldosa	floor tile
 el barro	clay
 los bigotes	whiskers
-el buzón	mailbox
-buzón de voz	voicemail
+
 el cacharro	pots
-canela	cinnamon
+las caderas	hips
+carga	load, charge
 el cargo	position
 cartera	purse
+chanclas	sandals, flip-flops
+chanza  joke
 la charla	chat
-compromismo	commitment [!]
-la culebra	snake
+la cobija	blanket
+el codo	elbow
+el colchón	mattress
+la copa	[wine] glass
+el cuenco	bowl
+
 desarrollo	development
-la empresa	company
-feria	fair
+
+la escoba	broom
+
+flojo	loose
+los focos	light bulbs
+el fregadero	sink
+
 galleta	cookie
 la gana	desire
 la ganga	bargain
+la garra	claw
+gasto	expense
+
 la hancha	hook
+la herida	wound
+el higo	fig
 la huella	footprint
-la hincha	[sports] fan
+el huerto	orchard
+el hueso	bone
+
 la jarrón 	vase
-lodo	mud
-maletine	briefcase
-mancha	stain
-el maní	peanut
-el mantel	tablecloth
+
+ladrillo	brick
+el latón	brass
+ligero	light [weight]
+el lío	mess
+liso	smooth
+las llamas	flames
+la llanta	tire
+
+madrugada	dawn
+la manga	sleeve
+la multa	fine [fee]
+
+las nueces	nuts
+
 orgulloso	proud
-la palomilla	moth
+
+paja	straw, hay
+la pala	shovel
+el pantano	swamp
 el pañuelo	handkerchief
+la pastilla	pill
 las patillas	sideburns
-la pelea	fight
+el perno	bolt
+la pista	track, clue
+la plancha	sleeve
 la prenda	garment
+
 el rasgo	feature
+ratero	thief [Mex.]
+el reo	criminal
 el reto	challenge
-la seda	silk
-sedoso	silky
-el sello	stamp
-el sorbo	sip
+el retraso	delay
+roto	broken
+
+el soltero	bachelor
+
+el taladro	drill
+el tapete	rug
 la tarea	task, job
 tarro	jar
-tornillos	screws
+tasa	rate
+la tormenta	storm
 trastos	junk
+trinquete	ratchet
+la tuerca	nut
+
+vergüenza	embarrassment
+

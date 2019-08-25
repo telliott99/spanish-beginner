@@ -1,24 +1,26 @@
-A concise introduction to conjugation in the indicative voice.
+Here is a concise introduction to conjugation in the indicative voice.
 
 Regular verbs
-The first two tenses are present and past perfect.  (Past perfect is *completed* action:  "I went ..").
+
+Consider first the present tense and the past perfect.  (Past perfect is *completed* action:  "Yesterday, I was hit by lightning ..").
 
 hablar
 habl-   o    as     a    amos    an
 habl-   é    aste   ó    amos    aron
 
 comer
-com-    o     es     e    emos    en
-com-    í     iste   ió   imos    ieron
+com-    o    es     e    emos    en
+com-    í    iste   ió   imos    ieron
 
 vivir
-viv-    o     es     e    imos    en
-viv-    í     iste   ió   imos    ieron
+viv-    o    es     e    imos    en
+viv-    í    iste   ió   imos    ieron
 
--er and -ir are identical except for Nosotros, present.
+-er and -ir are identical except for Nos. in present.
 
-Traditionally, we should include the second person plural, Vosotros (familiar).  However, this is rarely used now except in some parts of Spain.
+Traditionally, we should include the second person plural, for Vosotros (familiar).  However, this is rarely used now except in some parts of Spain.
 --------
+
 Even when verbs are *very* irregular,
 most of the irregularity is in the present tense.
 
@@ -40,59 +42,41 @@ ser
 
 Except for ser, these verbs have the same endings in the past perfect, just with a stem change.
 --------
-Six other very common irregular verbs:
 
-venir
-        vengo vienes  viene venimos vienen
-vin-    e     iste    o     imos    ieron
+For the other three tenses, all endings are the same regardless of the verb.  These are 
 
-tener
-        tengo tienes  tiene tenemos tienen
-tuv-    e     iste    o     imos    ieron
+-past imperfect
+-conditional
+-future
 
-poner
-        pongo pones   pone  ponemos ponen
-pus-    e     iste    o     imos    ieron
+paimp   a     as      a     amos    an
+cond    a     as      a     amos    an
+fut     é     ás      á     emos    án
 
-poder
-        puedo puedes  puede podemos pueden
-pud     e     iste    o     imos    ieron  
+These are distinguished from each other, and from the present tense for -ar verbs, by the stem
 
-ir
-        voy   vas     va    vamos   van
-        fui   fuiste  fue   fuimos  fueron
 
-dar
-        doy   das     da    damos   dan
-        di    diste   dio   dimos   dieron
-
-Only ir and dar are different in the past perfect, in fact, ir is identical to ser, which is a little weird.
---------
-For the other three tenses, all endings are the same regardless of the verb.  First, the past imperfect:
-
-        a     as      a     amos    an
-
-To distinguish this from the present tense for -ar verbs, the stem form is the infinitive + ab.  
+In the past imperfect -ar, the form is the infinitive + ab.  
 Thus:  hablaba, hablabas ...
 
 For -er and -ir verbs, the stem is the infinitive plus  i.
 Thus:  comía, comías ...
 
-Ser is irregular in this tense.  It uses e- for the stem.
+Ser is also irregular in the past imperfect tense.  It uses e- for the stem.
+
 Thus:  era, eras, era, éramos, eran
-(note the accent for Nos.)
-     
+(note the accent for Nos.)   
 --------
+
 The last two tenses are the conditional and the future.
 
-Future tense is also rarely used (use instead ir + the verb), but we include it anyway.
-
+Again:
 cond    a     as      a     amos    an
 fut     é     ás      á     emos    án
 
-Again, the endings are the same for all verbs with very few exceptions, and also very similar to the past imperfect.  
+Future tense is rarely used, but we include it anyway.  (Use instead ir + the verb)
 
-These tenses are distinguished by the form of the stem.
+These tenses are all distinguished by the form of the stem.
 
 Conditional:  infinitive + í
 Thus:  comería, comerías .. comeríamos

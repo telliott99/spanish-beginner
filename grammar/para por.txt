@@ -1,0 +1,26 @@
+para is the simple one
+
+el hombre salió para Madrid	[to]
+el vaso es para agua	[purpose]
+para hacer una masa	[in order to]
+este regalo es para ti	[recipient]
+lo necesito para el lunes  [deadline]
+
+por
+
+gracias por la ayuda	[gratitude]
+dos por dos son cuatro	[math, multiplication]
+cinco veces por semana	[frequency]
+andamos por el parque	[through]
+él me dio diez peseos por el libro	[sales, exchange]
+voté por el libero	[in favor of]
+yo estudié por dos horas	[length of time]
+caminabamos por la noche	[through]
+prefiero hablar por teléfono	[by means of]
+me tienen por loco	[to be seen as]
+paso por tí a las ocho	[why]
+la cena está por cocinar	[has yet to be ]
+el hombre murió por falta de agua	[cause]
+estoy por tomar café	[in the mood]
+el libro fue escrito por Marquez	[passive]
+

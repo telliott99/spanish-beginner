@@ -1,0 +1,113 @@
+hablar
+habl-     o       as       a       amos      an
+habl-     é       aste     ó       amos      aron
+hablab-   a       as       a       amos      an
+--------------------------------------------------
+comer 
+com-      o       es       e       emos      en
+com-      í       iste     ió      imos      ieron
+comí-     a       as       a       amos      an
+--------------------------------------------------
+vivir 
+viv-      o       es       e       imos      en
+viv-      í       iste     ió      imos      ieron
+viví-     a       as       a       amos      an
+--------------------------------------------------
+ser
+          soy     eres     es      somos     son
+fu        i       iste     e       imos      eron
+er-       a       as       a       éramos    an
+--------------------------------------------------
+estar
+est-      oy      ás       á       amos      án
+estuv-    e       iste     o       imos      ieron
+estab     a       as       a       amos      an
+--------------------------------------------------
+ir
+v-        oy      as       a       amos      an
+fu-       i       iste     e       imos      eron
+ib-       a       as       a       amos      an
+--------------------------------------------------
+decir
+dic-      digo    es       e       decimos   en
+dij-      e       iste     o       imos      eron
+--------------------------------------------------
+dormir
+duerm-    o       es       e       dormimos  en
+dorm-     í       iste     ió      imos      ieron  
+--------------------------------------------------
+haber
+          he      has      ha,hay  hemos     han
+hub-      e       iste     o       imos      ieron
+--------------------------------------------------
+hacer
+hac-      hago    es       e       emos      en
+hic-      e       iste     hizo    imos      ieron
+--------------------------------------------------
+poder
+pued-     o       es       e       podemos   en
+pud-      e       iste     o       imos      ieron
+--------------------------------------------------
+poner
+pon-      pongo   es       e       emos      en
+pus-      e       iste     o       imos      ieron
+--------------------------------------------------
+querer
+quier     o       es       e       queremos  en
+quis-     e       iste     o       imos      ieron
+--------------------------------------------------
+saber
+sab-      sé      es       e       emos      en
+sup-      e       iste     o       imos      ieron
+--------------------------------------------------
+salir
+sal-      salgo   es       e       emos      en
+sal-      í       iste     ió      imos      ieron  
+--------------------------------------------------
+sentir
+sient-    o       es       e       sentimos  en
+sent-     í       iste     ió      imos      ieron  
+--------------------------------------------------
+traer
+tra-      traigo  e        e       emos      en
+traj-     e       iste     o       imos      ieron
+--------------------------------------------------
+tener
+tien-     tengo   es       e       tenemos      en
+tuv-      e       iste     o       imos      ieron
+--------------------------------------------------
+venir
+vien-     vengo   es       e       venimos      en
+vin-      e       iste     o       imos      ieron
+--------------------------------------------------
+ver
+v-        veo     es       e       emos      en
+v-        i       iste     io      imos      ieron  
+--------------------------------------------------
+volver
+vuelv-    o       es       e       volvemos  en
+volv-     í       iste     ió      imos      ieron
+--------------------------------------------------
+buscar
+busc-     o       as       a       amos      aron
+busc-     busqué  aste     ó       amos      aron
+--------------------------------------------------
+caer
+ca-       caigo   es       e       emos      en
+ca-       í       iste     yó      imos      yeron
+--------------------------------------------------
+dar
+d-        oy      as       a       amos      an
+d-        i       iste     io      imos      ieron  
+--------------------------------------------------
+oler
+huel-     o       es       e       holemos   en
+ol-       í       iste     ió      imos      ieron  
+--------------------------------------------------
+seguir
+          sigo    sigues   sigue   seguimos  siguen
+segu-     í       iste     ió      imos      ieron  
+--------------------------------------------------
+caber
+cab-      quepo   es       e       emos      en
+cup-      e       iste     o       imos      ieron  

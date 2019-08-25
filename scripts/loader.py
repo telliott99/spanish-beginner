@@ -23,6 +23,10 @@ if rev:
 new = 'new' in args
 if new:
     args.remove('new')
+    
+old = 'old' in args
+if old:
+    args.remove('old')
 
 std_args = ['nouns','verbs','adverbs',
             'phrases','phrases-verbs']
@@ -38,7 +42,7 @@ v = False
 if v:
     print 'args:', ' '.join(args)
     print 'phrases', phrases
-    print 'new:     ', new
+    print 'new:     ', new, 'old:   ', old,
     print 'rev:     ', rev
 
 #--------------------------------
@@ -56,6 +60,9 @@ else:
                         
 if new:
     fL = [fn for fn in fL if 'new' in fn]
+    
+if old:
+    fL = [fn for fn in fL if not 'new' in fn]
     
 pL = [a.replace('.txt', '') for a in fL]
 pL.sort()

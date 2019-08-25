@@ -321,6 +321,7 @@ vamos a dar un paseo	go for a walk
 van en camino	they are on their way
 vamos de viaje	they are going on a trip
 a veces	sometimes
+Ella me entregò la carta y se fue sin decir nada	she handed me the letter and went away .. [reflexive]
 
 -lanzar
 García lanzó el balón	.. threw the ball 
@@ -397,7 +398,7 @@ necesito que me lo digas	i need you to tell me
 
 -obtener
 obtener la máxima ventaja de una situación	.. advantage ..
-Obtuvieron el apoyo de uno de los escritores más conocidos de toda España	they received the support of one of the most known ..
+Obtuvieron el apoyo de uno de un escritor	they received the support of a writer
 
 -oler
 Este jabón huele muy rico [oler]	this soap smells very nice

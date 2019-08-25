@@ -5,6 +5,7 @@ además, demás	moreover; other, [the] rest
 agradece	thanks
 el agua está fría	the water is cold
 el agua pero las aguas  water
+¡Aguas!	Watch out!
 al dentro, afuera, abajo	toward the inside, outside, below
 al fin y al cabo	after all
 al principio	at first
@@ -40,6 +41,9 @@ carne molida	ground beef
 chicharron de queso	browned skin of cheese
 ciento por ciento	one hundred percent
 claro que sí	yes, of course
+Claro, yo te puedo prestar algo de dinero, no hay bronca	no problem
+
+El chavo sigue en el colegio	the kid is still in school
 colgado al hombro llevaba un bolso	hanging from the shoulder he carried a bag
 ¿Cómo te fue?	how did it go?
 con permiso	excuse me [in the way]
@@ -54,6 +58,9 @@ una cucharada	spoon, spoonful
 el cuerpo humano se compone de millones de células	cells	the human body is composed of millions of cells
 el cura, la cura	priest, cure
 
+dar recuerdos	give regards to
+darse cuenta de	to realize
+darse prisa	to hurry
 de cuerpo entero	full-length
 de veras	really
 de vez en cuando    once in a while
@@ -61,6 +68,7 @@ de vuelta	again
 debajo, encima  underneath, above
 debes ponerte la ropa	You need to put on your clothes
 dejar atrás	to leave behind
+dejar caer	to drop
 delante de	in front of
 delante, detrás in front, behind
 demasiado bien	very well
@@ -100,6 +108,7 @@ el frente, la frente	front, forehead
 
 las gafas del sol	sunglasses
 
+hacer una pregunta	to ask a question
 hacer velas	to go sailing (make sails)
 hay rebaja en blusas de algodón	there is a sale on cotton blouses
 hijo varón	male child
@@ -111,6 +120,7 @@ jamás te olvidaré	i'll never forget you
 
 la llanta de repuesto	spare tire
 llave de tubo	socket wrench
+llegar a ser	to become
 llegaste pronto	you got here fast
 llevar un traje	to wear a suit
 llevó a cabo un importante trabajo científico	he carried out ..
@@ -146,6 +156,7 @@ pedazos de papel	pieces of paper
 pero aun asi	but even so
 perdoneme	pardon me (ex: for a sneeze)
 a pie	on foot
+pinche pendejo	fucking asshole
 piso mojado	wet floor
 la pista correcta	the right trail
 pista de despegue	runway
@@ -182,6 +193,8 @@ tal vez	perhaps, sometimes
 tarjeta de crédito	credit card
 tarjeta de seguro	insurance form
 temo que ya me tengo que ir	i'm afraid i have to go now
+tenemos una reserva a nombre de	we have a reservation under the name
+tener ganas de	to feel like
 tener razón	to be right
 tener un sueño	to have a dream
 Me tengo que ir -- Hasta mañana	i have to go -- see you tomorrow
@@ -194,6 +207,7 @@ tus acciones me producen tristeza	your actions cause me grief
 un dolar	one dollar (not uno!)
 
 el viaje resultó perfecto	the trip turned out perfectly
+de vez en cuando	from time to time
 
 Yo me voy	I'm leaving 
 

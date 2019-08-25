@@ -53,7 +53,7 @@ while True:
         time.sleep(pause)
         print trans
         if phrases:
-            time.sleep(2.0)
+            time.sleep(2.5)
         else:
             time.sleep(0.5)
         if (n > 0 and count >= n) \

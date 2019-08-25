@@ -3,8 +3,3 @@ whenever the direct object of a verb is a person or a pet, that object must be p
 
 - Ellos ayudan a los estudiantes mucho.
 - Èl camina a su perro en el parque.
-
-The passive voice is formed with "se" and the third-person singular or plural of the verb.
-
-- No se vende  eso aqui.
-- Sì, se llaman Español in Mèxico.
